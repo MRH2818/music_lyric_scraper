@@ -1,0 +1,266 @@
+{
+  "title": "Se Bastasse Una Canzone",
+  "artist": "Eros Ramazzotti",
+  "album": "Top 100 over 1990",
+  "duration": 263.0,
+  "provider": "lrclib",
+  "source_id": "37481841",
+  "detected_language": "it",
+  "language_confidence": 1.0,
+  "is_instrumental": false,
+  "lines_count": 36,
+  "lines": [
+    {
+      "start_ms": 14800,
+      "end_ms": 21800,
+      "start_time": "00:14.80",
+      "end_time": "00:21.80",
+      "text": "Se bastasse una bella canzone a far piovere amore"
+    },
+    {
+      "start_ms": 24250,
+      "end_ms": 31250,
+      "start_time": "00:24.25",
+      "end_time": "00:31.25",
+      "text": ""
+    },
+    {
+      "start_ms": 37470,
+      "end_ms": 44470,
+      "start_time": "00:37.47",
+      "end_time": "00:44.47",
+      "text": "Si potrebbe cantarla un milione, un milione di volte"
+    },
+    {
+      "start_ms": 45860,
+      "end_ms": 52860,
+      "start_time": "00:45.86",
+      "end_time": "00:52.86",
+      "text": "Bastasse già, bastasse già"
+    },
+    {
+      "start_ms": 54870,
+      "end_ms": 61870,
+      "start_time": "00:54.87",
+      "end_time": "01:01.87",
+      "text": "Non ci vorrebbe poi tanto a imparare ad amare di più"
+    },
+    {
+      "start_ms": 63470,
+      "end_ms": 70470,
+      "start_time": "01:03.47",
+      "end_time": "01:10.47",
+      "text": "Se bastasse una vera canzone per convincere gli altri"
+    },
+    {
+      "start_ms": 70630,
+      "end_ms": 77630,
+      "start_time": "01:10.63",
+      "end_time": "01:17.63",
+      "text": "Si potrebbe cantarla più forte, visto che sono in tanti"
+    },
+    {
+      "start_ms": 79400,
+      "end_ms": 85830,
+      "start_time": "01:19.40",
+      "end_time": "01:25.83",
+      "text": "Fosse così, fosse così"
+    },
+    {
+      "start_ms": 85830,
+      "end_ms": 92830,
+      "start_time": "01:25.83",
+      "end_time": "01:32.83",
+      "text": "Non si dovrebbe lottare per farsi sentire di più"
+    },
+    {
+      "start_ms": 95700,
+      "end_ms": 102700,
+      "start_time": "01:35.70",
+      "end_time": "01:42.70",
+      "text": "Se bastasse una buona canzone a far dare una mano"
+    },
+    {
+      "start_ms": 105420,
+      "end_ms": 112420,
+      "start_time": "01:45.42",
+      "end_time": "01:52.42",
+      "text": "Si potrebbe trovarla nel cuore, senza andare lontano"
+    },
+    {
+      "start_ms": 112430,
+      "end_ms": 119430,
+      "start_time": "01:52.43",
+      "end_time": "01:59.43",
+      "text": "Bastasse già, bastasse già"
+    },
+    {
+      "start_ms": 119840,
+      "end_ms": 126840,
+      "start_time": "01:59.84",
+      "end_time": "02:06.84",
+      "text": "Non ci sarebbe bisogno di chiedere la carità"
+    },
+    {
+      "start_ms": 128160,
+      "end_ms": 130450,
+      "start_time": "02:08.16",
+      "end_time": "02:10.45",
+      "text": ""
+    },
+    {
+      "start_ms": 130450,
+      "end_ms": 137450,
+      "start_time": "02:10.45",
+      "end_time": "02:17.45",
+      "text": "Dedicato a tutti quelli che sono allo sbando"
+    },
+    {
+      "start_ms": 138010,
+      "end_ms": 145010,
+      "start_time": "02:18.01",
+      "end_time": "02:25.01",
+      "text": "Dedicato a tutti quelli che non hanno avuto ancora niente"
+    },
+    {
+      "start_ms": 145360,
+      "end_ms": 151680,
+      "start_time": "02:25.36",
+      "end_time": "02:31.68",
+      "text": "E sono ai margini da sempre"
+    },
+    {
+      "start_ms": 151680,
+      "end_ms": 157960,
+      "start_time": "02:31.68",
+      "end_time": "02:37.96",
+      "text": "Dedicato a tutti quelli che stanno aspettando"
+    },
+    {
+      "start_ms": 157960,
+      "end_ms": 164960,
+      "start_time": "02:37.96",
+      "end_time": "02:44.96",
+      "text": "Dedicato a tutti quelli che rimangono dei sognatori"
+    },
+    {
+      "start_ms": 165290,
+      "end_ms": 169870,
+      "start_time": "02:45.29",
+      "end_time": "02:49.87",
+      "text": "Per questo sempre più da soli"
+    },
+    {
+      "start_ms": 169870,
+      "end_ms": 174770,
+      "start_time": "02:49.87",
+      "end_time": "02:54.77",
+      "text": ""
+    },
+    {
+      "start_ms": 174770,
+      "end_ms": 181770,
+      "start_time": "02:54.77",
+      "end_time": "03:01.77",
+      "text": "Se bastasse una grande canzone per parlare di pace"
+    },
+    {
+      "start_ms": 182350,
+      "end_ms": 189350,
+      "start_time": "03:02.35",
+      "end_time": "03:09.35",
+      "text": "Si potrebbe chiamarla per nome aggiungendo una voce"
+    },
+    {
+      "start_ms": 191880,
+      "end_ms": 198540,
+      "start_time": "03:11.88",
+      "end_time": "03:18.54",
+      "text": "E un'altra poi e un'altra poi"
+    },
+    {
+      "start_ms": 198540,
+      "end_ms": 205540,
+      "start_time": "03:18.54",
+      "end_time": "03:25.54",
+      "text": "Finché diventa di un solo colore più vivo che mai"
+    },
+    {
+      "start_ms": 207420,
+      "end_ms": 214420,
+      "start_time": "03:27.42",
+      "end_time": "03:34.42",
+      "text": "Dedicato a tutti quelli che sono allo sbando"
+    },
+    {
+      "start_ms": 217420,
+      "end_ms": 223480,
+      "start_time": "03:37.42",
+      "end_time": "03:43.48",
+      "text": "Dedicato a tutti quelli che hanno provato ad inventare"
+    },
+    {
+      "start_ms": 223480,
+      "end_ms": 229770,
+      "start_time": "03:43.48",
+      "end_time": "03:49.77",
+      "text": "Una canzone per cambiare"
+    },
+    {
+      "start_ms": 229770,
+      "end_ms": 236770,
+      "start_time": "03:49.77",
+      "end_time": "03:56.77",
+      "text": "Dedicato a tutti quelli che stanno aspettando"
+    },
+    {
+      "start_ms": 237040,
+      "end_ms": 244040,
+      "start_time": "03:57.04",
+      "end_time": "04:04.04",
+      "text": "Dedicato a tutti quelli che venuti su con troppo vento"
+    },
+    {
+      "start_ms": 244260,
+      "end_ms": 248350,
+      "start_time": "04:04.26",
+      "end_time": "04:08.35",
+      "text": "Quel tempo gli è rimasto dentro"
+    },
+    {
+      "start_ms": 248350,
+      "end_ms": 254750,
+      "start_time": "04:08.35",
+      "end_time": "04:14.75",
+      "text": ""
+    },
+    {
+      "start_ms": 254750,
+      "end_ms": 261750,
+      "start_time": "04:14.75",
+      "end_time": "04:21.75",
+      "text": "In ogni senso hanno creduto, cercato e voluto che fosse così"
+    },
+    {
+      "start_ms": 264740,
+      "end_ms": 269400,
+      "start_time": "04:24.74",
+      "end_time": "04:29.40",
+      "text": "Che fosse così"
+    },
+    {
+      "start_ms": 269400,
+      "end_ms": 274620,
+      "start_time": "04:29.40",
+      "end_time": "04:34.62",
+      "text": "Hanno creduto, cercato e voluto che fosse così"
+    },
+    {
+      "start_ms": 274620,
+      "end_ms": 278620,
+      "start_time": "04:34.62",
+      "end_time": "04:38.62",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "title": "99 Luftballons [99 Luftballons, 1984]",
+  "artist": "Nena",
+  "album": "Mixone 2024",
+  "duration": 232.0,
+  "provider": "lrclib",
+  "source_id": "12897360",
+  "detected_language": "de",
+  "language_confidence": 1.0,
+  "is_instrumental": false,
+  "lines_count": 48,
+  "lines": [
+    {
+      "start_ms": 3450,
+      "end_ms": 7080,
+      "start_time": "00:03.45",
+      "end_time": "00:07.08",
+      "text": "Hast du etwas Zeit für mich?"
+    },
+    {
+      "start_ms": 7080,
+      "end_ms": 9970,
+      "start_time": "00:07.08",
+      "end_time": "00:09.97",
+      "text": "Dann singe ich ein Lied für dich"
+    },
+    {
+      "start_ms": 9970,
+      "end_ms": 13060,
+      "start_time": "00:09.97",
+      "end_time": "00:13.06",
+      "text": "Von neunundneunzig Luftballons"
+    },
+    {
+      "start_ms": 13060,
+      "end_ms": 16670,
+      "start_time": "00:13.06",
+      "end_time": "00:16.67",
+      "text": "Auf ihrem Weg zum Horizont"
+    },
+    {
+      "start_ms": 16670,
+      "end_ms": 19960,
+      "start_time": "00:16.67",
+      "end_time": "00:19.96",
+      "text": "Denkst du vielleicht grad an mich?"
+    },
+    {
+      "start_ms": 19960,
+      "end_ms": 22820,
+      "start_time": "00:19.96",
+      "end_time": "00:22.82",
+      "text": "Dann singe ich ein Lied für dich"
+    },
+    {
+      "start_ms": 22820,
+      "end_ms": 26410,
+      "start_time": "00:22.82",
+      "end_time": "00:26.41",
+      "text": "Von neunundneunzig Luftballons"
+    },
+    {
+      "start_ms": 26410,
+      "end_ms": 31200,
+      "start_time": "00:26.41",
+      "end_time": "00:31.20",
+      "text": "Und dass sowas von sowas kommt"
+    },
+    {
+      "start_ms": 31200,
+      "end_ms": 38200,
+      "start_time": "00:31.20",
+      "end_time": "00:38.20",
+      "text": ""
+    },
+    {
+      "start_ms": 70750,
+      "end_ms": 73240,
+      "start_time": "01:10.75",
+      "end_time": "01:13.24",
+      "text": "Neunundneunzig Luftballons"
+    },
+    {
+      "start_ms": 73240,
+      "end_ms": 75380,
+      "start_time": "01:13.24",
+      "end_time": "01:15.38",
+      "text": "Auf ihrem Weg zum Horizont"
+    },
+    {
+      "start_ms": 75380,
+      "end_ms": 77950,
+      "start_time": "01:15.38",
+      "end_time": "01:17.95",
+      "text": "Hielt man für Ufos aus dem All"
+    },
+    {
+      "start_ms": 77950,
+      "end_ms": 80500,
+      "start_time": "01:17.95",
+      "end_time": "01:20.50",
+      "text": "Darum schickte ein General"
+    },
+    {
+      "start_ms": 80500,
+      "end_ms": 82820,
+      "start_time": "01:20.50",
+      "end_time": "01:22.82",
+      "text": "'Ne Fliegerstaffel hinterher"
+    },
+    {
+      "start_ms": 82820,
+      "end_ms": 85480,
+      "start_time": "01:22.82",
+      "end_time": "01:25.48",
+      "text": "Alarm zu geben, wenn's so wär'"
+    },
+    {
+      "start_ms": 85480,
+      "end_ms": 87930,
+      "start_time": "01:25.48",
+      "end_time": "01:27.93",
+      "text": "Dabei war'n dort am Horizont"
+    },
+    {
+      "start_ms": 87930,
+      "end_ms": 91620,
+      "start_time": "01:27.93",
+      "end_time": "01:31.62",
+      "text": "Nur neunundneunzig Luftballons"
+    },
+    {
+      "start_ms": 91620,
+      "end_ms": 98620,
+      "start_time": "01:31.62",
+      "end_time": "01:38.62",
+      "text": ""
+    },
+    {
+      "start_ms": 100680,
+      "end_ms": 103050,
+      "start_time": "01:40.68",
+      "end_time": "01:43.05",
+      "text": "Neunundneunzig Düsenflieger"
+    },
+    {
+      "start_ms": 103050,
+      "end_ms": 105430,
+      "start_time": "01:43.05",
+      "end_time": "01:45.43",
+      "text": "Jeder war ein großer Krieger"
+    },
+    {
+      "start_ms": 105430,
+      "end_ms": 108070,
+      "start_time": "01:45.43",
+      "end_time": "01:48.07",
+      "text": "Hielten sich für Captain Kirk"
+    },
+    {
+      "start_ms": 108070,
+      "end_ms": 110370,
+      "start_time": "01:48.07",
+      "end_time": "01:50.37",
+      "text": "Das gab ein großes Feuerwerk"
+    },
+    {
+      "start_ms": 110370,
+      "end_ms": 112550,
+      "start_time": "01:50.37",
+      "end_time": "01:52.55",
+      "text": "Die Nachbarn haben nichts gerafft"
+    },
+    {
+      "start_ms": 112550,
+      "end_ms": 115360,
+      "start_time": "01:52.55",
+      "end_time": "01:55.36",
+      "text": "Und fühlten sich gleich angemacht"
+    },
+    {
+      "start_ms": 115360,
+      "end_ms": 117360,
+      "start_time": "01:55.36",
+      "end_time": "01:57.36",
+      "text": "Dabei schoss man am Horizont"
+    },
+    {
+      "start_ms": 117360,
+      "end_ms": 121310,
+      "start_time": "01:57.36",
+      "end_time": "02:01.31",
+      "text": "Auf neunundneunzig Luftballons"
+    },
+    {
+      "start_ms": 121310,
+      "end_ms": 128310,
+      "start_time": "02:01.31",
+      "end_time": "02:08.31",
+      "text": ""
+    },
+    {
+      "start_ms": 149750,
+      "end_ms": 152560,
+      "start_time": "02:29.75",
+      "end_time": "02:32.56",
+      "text": "Neunundneunzig Kriegsminister"
+    },
+    {
+      "start_ms": 152560,
+      "end_ms": 155020,
+      "start_time": "02:32.56",
+      "end_time": "02:35.02",
+      "text": "Streichholz und Benzinkanister"
+    },
+    {
+      "start_ms": 155020,
+      "end_ms": 157500,
+      "start_time": "02:35.02",
+      "end_time": "02:37.50",
+      "text": "Hielten sich für schlaue Leute"
+    },
+    {
+      "start_ms": 157500,
+      "end_ms": 160130,
+      "start_time": "02:37.50",
+      "end_time": "02:40.13",
+      "text": "Witterten schon fette Beute"
+    },
+    {
+      "start_ms": 160130,
+      "end_ms": 162450,
+      "start_time": "02:40.13",
+      "end_time": "02:42.45",
+      "text": "Riefen: \"Krieg!\" und wollten Macht"
+    },
+    {
+      "start_ms": 162450,
+      "end_ms": 164840,
+      "start_time": "02:42.45",
+      "end_time": "02:44.84",
+      "text": "Mann, wer hätte das gedacht"
+    },
+    {
+      "start_ms": 164840,
+      "end_ms": 167480,
+      "start_time": "02:44.84",
+      "end_time": "02:47.48",
+      "text": "Dass es einmal so weit kommt"
+    },
+    {
+      "start_ms": 167480,
+      "end_ms": 172530,
+      "start_time": "02:47.48",
+      "end_time": "02:52.53",
+      "text": "Wegen neunundneunzig Luftballons"
+    },
+    {
+      "start_ms": 172530,
+      "end_ms": 176510,
+      "start_time": "02:52.53",
+      "end_time": "02:56.51",
+      "text": "Wegen neunundneunzig Luftballons"
+    },
+    {
+      "start_ms": 176510,
+      "end_ms": 182020,
+      "start_time": "02:56.51",
+      "end_time": "03:02.02",
+      "text": ""
+    },
+    {
+      "start_ms": 182020,
+      "end_ms": 185780,
+      "start_time": "03:02.02",
+      "end_time": "03:05.78",
+      "text": "Neunundneunzig Luftballons"
+    },
+    {
+      "start_ms": 185780,
+      "end_ms": 192780,
+      "start_time": "03:05.78",
+      "end_time": "03:12.78",
+      "text": ""
+    },
+    {
+      "start_ms": 192840,
+      "end_ms": 196700,
+      "start_time": "03:12.84",
+      "end_time": "03:16.70",
+      "text": "Neunundneunzig Jahre Krieg"
+    },
+    {
+      "start_ms": 196700,
+      "end_ms": 200180,
+      "start_time": "03:16.70",
+      "end_time": "03:20.18",
+      "text": "Ließen keinen Platz für Sieger"
+    },
+    {
+      "start_ms": 200180,
+      "end_ms": 203270,
+      "start_time": "03:20.18",
+      "end_time": "03:23.27",
+      "text": "Kriegsminister gibt's nicht mehr"
+    },
+    {
+      "start_ms": 203270,
+      "end_ms": 206720,
+      "start_time": "03:23.27",
+      "end_time": "03:26.72",
+      "text": "Und auch keine Düsenflieger"
+    },
+    {
+      "start_ms": 206720,
+      "end_ms": 210230,
+      "start_time": "03:26.72",
+      "end_time": "03:30.23",
+      "text": "Heute zieh' ich meine Runden"
+    },
+    {
+      "start_ms": 210230,
+      "end_ms": 214320,
+      "start_time": "03:30.23",
+      "end_time": "03:34.32",
+      "text": "Seh' die Welt in Trümmern liegen"
+    },
+    {
+      "start_ms": 214320,
+      "end_ms": 217410,
+      "start_time": "03:34.32",
+      "end_time": "03:37.41",
+      "text": "Hab' 'n Luftballon gefunden"
+    },
+    {
+      "start_ms": 217410,
+      "end_ms": 221930,
+      "start_time": "03:37.41",
+      "end_time": "03:41.93",
+      "text": "Denk' an dich und lass' ihn fliegen"
+    },
+    {
+      "start_ms": 221930,
+      "end_ms": 227930,
+      "start_time": "03:41.93",
+      "end_time": "03:47.93",
+      "text": ""
+    }
+  ]
+}

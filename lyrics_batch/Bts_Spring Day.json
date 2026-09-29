@@ -1,0 +1,371 @@
+{
+  "title": "Spring Day",
+  "artist": "Bts",
+  "album": "Bts Essentials",
+  "duration": 274.0,
+  "provider": "lrclib",
+  "source_id": "35933091",
+  "detected_language": "ko",
+  "language_confidence": 0.95,
+  "is_instrumental": false,
+  "lines_count": 51,
+  "lines": [
+    {
+      "start_ms": 17130,
+      "end_ms": 23740,
+      "start_time": "00:17.13",
+      "end_time": "00:23.74",
+      "text": "보고 싶다, 이렇게 말하니까 더 보고 싶다"
+    },
+    {
+      "start_ms": 23740,
+      "end_ms": 27860,
+      "start_time": "00:23.74",
+      "end_time": "00:27.86",
+      "text": "너희 사진을 보고 있어도 보고 싶다"
+    },
+    {
+      "start_ms": 27860,
+      "end_ms": 31770,
+      "start_time": "00:27.86",
+      "end_time": "00:31.77",
+      "text": "너무 야속한 시간 나는 우리가 밉다"
+    },
+    {
+      "start_ms": 31770,
+      "end_ms": 34890,
+      "start_time": "00:31.77",
+      "end_time": "00:34.89",
+      "text": "이젠 얼굴 한 번 보는 것 조차 힘들어진 우리가"
+    },
+    {
+      "start_ms": 34890,
+      "end_ms": 39580,
+      "start_time": "00:34.89",
+      "end_time": "00:39.58",
+      "text": "여긴 온통 겨울 뿐이야 8월에도 겨울이 와"
+    },
+    {
+      "start_ms": 39580,
+      "end_ms": 43820,
+      "start_time": "00:39.58",
+      "end_time": "00:43.82",
+      "text": "마음은 시간을 달려가네 홀로 남은 설국열차"
+    },
+    {
+      "start_ms": 43820,
+      "end_ms": 49020,
+      "start_time": "00:43.82",
+      "end_time": "00:49.02",
+      "text": "니 손 잡고 지구 반대편까지 가 이 겨울을 끝내고파"
+    },
+    {
+      "start_ms": 49020,
+      "end_ms": 53580,
+      "start_time": "00:49.02",
+      "end_time": "00:53.58",
+      "text": "그리움들이 얼마나 눈처럼 내려야 그 봄날이 올까, friend?"
+    },
+    {
+      "start_ms": 53580,
+      "end_ms": 60580,
+      "start_time": "00:53.58",
+      "end_time": "01:00.58",
+      "text": "허공을 떠도는 작은 먼지처럼, 작은 먼지처럼"
+    },
+    {
+      "start_ms": 62380,
+      "end_ms": 69380,
+      "start_time": "01:02.38",
+      "end_time": "01:09.38",
+      "text": "날리는 눈이 나라면 조금 더 빨리 네게 닿을 수 있을 텐데?"
+    },
+    {
+      "start_ms": 70710,
+      "end_ms": 77710,
+      "start_time": "01:10.71",
+      "end_time": "01:17.71",
+      "text": "눈꽃이 떨어져요 또 조금씩 멀어져요"
+    },
+    {
+      "start_ms": 79400,
+      "end_ms": 83960,
+      "start_time": "01:19.40",
+      "end_time": "01:23.96",
+      "text": "보고 싶다 (보고 싶다)"
+    },
+    {
+      "start_ms": 83960,
+      "end_ms": 88530,
+      "start_time": "01:23.96",
+      "end_time": "01:28.53",
+      "text": "보고 싶다 (보고 싶다)"
+    },
+    {
+      "start_ms": 88530,
+      "end_ms": 95530,
+      "start_time": "01:28.53",
+      "end_time": "01:35.53",
+      "text": "얼마나 기다려야 또 몇 밤을 더 새워야?"
+    },
+    {
+      "start_ms": 97260,
+      "end_ms": 101920,
+      "start_time": "01:37.26",
+      "end_time": "01:41.92",
+      "text": "널 보게 될까 (널 보게 될까)"
+    },
+    {
+      "start_ms": 101920,
+      "end_ms": 107860,
+      "start_time": "01:41.92",
+      "end_time": "01:47.86",
+      "text": "만나게 될까 (만나게 될까)"
+    },
+    {
+      "start_ms": 107860,
+      "end_ms": 112150,
+      "start_time": "01:47.86",
+      "end_time": "01:52.15",
+      "text": "추운 겨울 끝을 지나"
+    },
+    {
+      "start_ms": 112150,
+      "end_ms": 116180,
+      "start_time": "01:52.15",
+      "end_time": "01:56.18",
+      "text": "다시 봄날이 올 때까지"
+    },
+    {
+      "start_ms": 116180,
+      "end_ms": 119570,
+      "start_time": "01:56.18",
+      "end_time": "01:59.57",
+      "text": "꽃 피울 때까지"
+    },
+    {
+      "start_ms": 119570,
+      "end_ms": 125660,
+      "start_time": "01:59.57",
+      "end_time": "02:05.66",
+      "text": "그곳에 좀 더 머물러줘, 머물러줘"
+    },
+    {
+      "start_ms": 125660,
+      "end_ms": 127270,
+      "start_time": "02:05.66",
+      "end_time": "02:07.27",
+      "text": "네가 변한 건지? (네가 변한 건지)"
+    },
+    {
+      "start_ms": 127270,
+      "end_ms": 129560,
+      "start_time": "02:07.27",
+      "end_time": "02:09.56",
+      "text": "아니면 내가 변한 건지? (내가 변한 건지)"
+    },
+    {
+      "start_ms": 129560,
+      "end_ms": 132020,
+      "start_time": "02:09.56",
+      "end_time": "02:12.02",
+      "text": "이 순간 흐르는 시간조차 미워"
+    },
+    {
+      "start_ms": 132020,
+      "end_ms": 134210,
+      "start_time": "02:12.02",
+      "end_time": "02:14.21",
+      "text": "우리가 변한 거지 뭐 모두가 그런 거지 뭐"
+    },
+    {
+      "start_ms": 134210,
+      "end_ms": 136360,
+      "start_time": "02:14.21",
+      "end_time": "02:16.36",
+      "text": "그래, 밉다 니가 넌 떠났지만"
+    },
+    {
+      "start_ms": 136360,
+      "end_ms": 138540,
+      "start_time": "02:16.36",
+      "end_time": "02:18.54",
+      "text": "단 하루도 너를 잊은 적이 없었지 난"
+    },
+    {
+      "start_ms": 138540,
+      "end_ms": 141380,
+      "start_time": "02:18.54",
+      "end_time": "02:21.38",
+      "text": "솔직히 보고 싶은데 이만 너를 지울게"
+    },
+    {
+      "start_ms": 141380,
+      "end_ms": 143150,
+      "start_time": "02:21.38",
+      "end_time": "02:23.15",
+      "text": "그게 널 원망하기보단 덜 아프니까"
+    },
+    {
+      "start_ms": 143150,
+      "end_ms": 150150,
+      "start_time": "02:23.15",
+      "end_time": "02:30.15",
+      "text": "시린 널 불어내 본다 연기처럼, 하얀 연기처럼"
+    },
+    {
+      "start_ms": 151890,
+      "end_ms": 158890,
+      "start_time": "02:31.89",
+      "end_time": "02:38.89",
+      "text": "말로는 지운다 해도 사실 난 아직 널 보내지 못하는데"
+    },
+    {
+      "start_ms": 160430,
+      "end_ms": 167430,
+      "start_time": "02:40.43",
+      "end_time": "02:47.43",
+      "text": "눈꽃이 떨어져요 또 조금씩 멀어져요"
+    },
+    {
+      "start_ms": 168980,
+      "end_ms": 173630,
+      "start_time": "02:48.98",
+      "end_time": "02:53.63",
+      "text": "보고 싶다 (보고 싶다)"
+    },
+    {
+      "start_ms": 173630,
+      "end_ms": 178280,
+      "start_time": "02:53.63",
+      "end_time": "02:58.28",
+      "text": "보고 싶다 (보고 싶다)"
+    },
+    {
+      "start_ms": 178280,
+      "end_ms": 185280,
+      "start_time": "02:58.28",
+      "end_time": "03:05.28",
+      "text": "얼마나 기다려야 또 몇 밤을 더 새워야?"
+    },
+    {
+      "start_ms": 186750,
+      "end_ms": 191330,
+      "start_time": "03:06.75",
+      "end_time": "03:11.33",
+      "text": "널 보게 될까 (널 보게 될까)"
+    },
+    {
+      "start_ms": 191330,
+      "end_ms": 198170,
+      "start_time": "03:11.33",
+      "end_time": "03:18.17",
+      "text": "만나게 될까 (만나게 될까)"
+    },
+    {
+      "start_ms": 198170,
+      "end_ms": 202870,
+      "start_time": "03:18.17",
+      "end_time": "03:22.87",
+      "text": "You know it all, you're my best friend"
+    },
+    {
+      "start_ms": 202870,
+      "end_ms": 207250,
+      "start_time": "03:22.87",
+      "end_time": "03:27.25",
+      "text": "아침은 다시 올 거야"
+    },
+    {
+      "start_ms": 207250,
+      "end_ms": 211560,
+      "start_time": "03:27.25",
+      "end_time": "03:31.56",
+      "text": "어떤 어둠도 어떤 계절도"
+    },
+    {
+      "start_ms": 211560,
+      "end_ms": 214260,
+      "start_time": "03:31.56",
+      "end_time": "03:34.26",
+      "text": "영원할 순 없으니까"
+    },
+    {
+      "start_ms": 214260,
+      "end_ms": 221260,
+      "start_time": "03:34.26",
+      "end_time": "03:41.26",
+      "text": "벚꽃이 피나봐요 이 겨울도 끝이 나요"
+    },
+    {
+      "start_ms": 222650,
+      "end_ms": 227260,
+      "start_time": "03:42.65",
+      "end_time": "03:47.26",
+      "text": "보고 싶다 (보고 싶다)"
+    },
+    {
+      "start_ms": 227260,
+      "end_ms": 231820,
+      "start_time": "03:47.26",
+      "end_time": "03:51.82",
+      "text": "보고 싶다 (보고 싶다)"
+    },
+    {
+      "start_ms": 231820,
+      "end_ms": 238820,
+      "start_time": "03:51.82",
+      "end_time": "03:58.82",
+      "text": "조금만 기다리면 (기다리면) 며칠 밤만 더 새우면"
+    },
+    {
+      "start_ms": 240690,
+      "end_ms": 245130,
+      "start_time": "04:00.69",
+      "end_time": "04:05.13",
+      "text": "만나러 갈게 (만나러 갈게)"
+    },
+    {
+      "start_ms": 245130,
+      "end_ms": 251560,
+      "start_time": "04:05.13",
+      "end_time": "04:11.56",
+      "text": "데리러 갈게 (데리러 갈게, yeah, yeah-yeah)"
+    },
+    {
+      "start_ms": 251560,
+      "end_ms": 256150,
+      "start_time": "04:11.56",
+      "end_time": "04:16.15",
+      "text": "추운 겨울 끝을 지나"
+    },
+    {
+      "start_ms": 256150,
+      "end_ms": 259380,
+      "start_time": "04:16.15",
+      "end_time": "04:19.38",
+      "text": "다시 봄날이 올 때까지"
+    },
+    {
+      "start_ms": 259380,
+      "end_ms": 263230,
+      "start_time": "04:19.38",
+      "end_time": "04:23.23",
+      "text": "꽃 피울 때까지"
+    },
+    {
+      "start_ms": 263230,
+      "end_ms": 268780,
+      "start_time": "04:23.23",
+      "end_time": "04:28.78",
+      "text": "그곳에 좀 더 머물러줘, 머물러줘"
+    },
+    {
+      "start_ms": 268780,
+      "end_ms": 274000,
+      "start_time": "04:28.78",
+      "end_time": "04:34.00",
+      "text": ""
+    }
+  ]
+}

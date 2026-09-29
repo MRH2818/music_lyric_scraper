@@ -1,0 +1,189 @@
+{
+  "title": "Non, Je Ne Regrette Rien",
+  "artist": "Edith Piaf",
+  "album": "フランス",
+  "duration": 149.0,
+  "provider": "lrclib",
+  "source_id": "36986496",
+  "detected_language": "fr",
+  "language_confidence": 1.0,
+  "is_instrumental": false,
+  "lines_count": 25,
+  "lines": [
+    {
+      "start_ms": 11250,
+      "end_ms": 16340,
+      "start_time": "00:11.25",
+      "end_time": "00:16.34",
+      "text": "Non, rien de rien"
+    },
+    {
+      "start_ms": 16340,
+      "end_ms": 21410,
+      "start_time": "00:16.34",
+      "end_time": "00:21.41",
+      "text": "Non, je ne regrette rien"
+    },
+    {
+      "start_ms": 21410,
+      "end_ms": 27030,
+      "start_time": "00:21.41",
+      "end_time": "00:27.03",
+      "text": "Ni le bien, qu'on m'a fait"
+    },
+    {
+      "start_ms": 27030,
+      "end_ms": 33170,
+      "start_time": "00:27.03",
+      "end_time": "00:33.17",
+      "text": "Ni le mal, tout ça m'est bien égal"
+    },
+    {
+      "start_ms": 33170,
+      "end_ms": 38250,
+      "start_time": "00:33.17",
+      "end_time": "00:38.25",
+      "text": "Non, rien de rien"
+    },
+    {
+      "start_ms": 38250,
+      "end_ms": 43450,
+      "start_time": "00:38.25",
+      "end_time": "00:43.45",
+      "text": "Non, je ne regrette rien"
+    },
+    {
+      "start_ms": 43450,
+      "end_ms": 50450,
+      "start_time": "00:43.45",
+      "end_time": "00:50.45",
+      "text": "C'est payé, balayé, oublié"
+    },
+    {
+      "start_ms": 51700,
+      "end_ms": 57160,
+      "start_time": "00:51.70",
+      "end_time": "00:57.16",
+      "text": "Je me fous du passé"
+    },
+    {
+      "start_ms": 57160,
+      "end_ms": 60800,
+      "start_time": "00:57.16",
+      "end_time": "01:00.80",
+      "text": "Avec mes souvenirs"
+    },
+    {
+      "start_ms": 60800,
+      "end_ms": 63990,
+      "start_time": "01:00.80",
+      "end_time": "01:03.99",
+      "text": "J'ai allumé le feu"
+    },
+    {
+      "start_ms": 63990,
+      "end_ms": 66660,
+      "start_time": "01:03.99",
+      "end_time": "01:06.66",
+      "text": "Mes chagrins, mes plaisirs"
+    },
+    {
+      "start_ms": 66660,
+      "end_ms": 69890,
+      "start_time": "01:06.66",
+      "end_time": "01:09.89",
+      "text": "Je n'ai plus besoin d'eux"
+    },
+    {
+      "start_ms": 69890,
+      "end_ms": 72470,
+      "start_time": "01:09.89",
+      "end_time": "01:12.47",
+      "text": "Balayer les amours"
+    },
+    {
+      "start_ms": 72470,
+      "end_ms": 75620,
+      "start_time": "01:12.47",
+      "end_time": "01:15.62",
+      "text": "Avec leurs trémolos"
+    },
+    {
+      "start_ms": 75620,
+      "end_ms": 78720,
+      "start_time": "01:15.62",
+      "end_time": "01:18.72",
+      "text": "Balayer pour toujours"
+    },
+    {
+      "start_ms": 78720,
+      "end_ms": 84970,
+      "start_time": "01:18.72",
+      "end_time": "01:24.97",
+      "text": "Je repars à zéro"
+    },
+    {
+      "start_ms": 84970,
+      "end_ms": 90560,
+      "start_time": "01:24.97",
+      "end_time": "01:30.56",
+      "text": "Non, rien de rien"
+    },
+    {
+      "start_ms": 90560,
+      "end_ms": 95440,
+      "start_time": "01:30.56",
+      "end_time": "01:35.44",
+      "text": "Non, je ne regrette rien"
+    },
+    {
+      "start_ms": 95440,
+      "end_ms": 101160,
+      "start_time": "01:35.44",
+      "end_time": "01:41.16",
+      "text": "Ni le bien, qu'on m'a fait"
+    },
+    {
+      "start_ms": 101160,
+      "end_ms": 107510,
+      "start_time": "01:41.16",
+      "end_time": "01:47.51",
+      "text": "Ni le mal, tout ça m'est bien égal"
+    },
+    {
+      "start_ms": 107510,
+      "end_ms": 112960,
+      "start_time": "01:47.51",
+      "end_time": "01:52.96",
+      "text": "Non, rien de rien"
+    },
+    {
+      "start_ms": 112960,
+      "end_ms": 117780,
+      "start_time": "01:52.96",
+      "end_time": "01:57.78",
+      "text": "Non, je ne regrette rien"
+    },
+    {
+      "start_ms": 117780,
+      "end_ms": 123460,
+      "start_time": "01:57.78",
+      "end_time": "02:03.46",
+      "text": "Car ma vie, car mes joies"
+    },
+    {
+      "start_ms": 123460,
+      "end_ms": 130460,
+      "start_time": "02:03.46",
+      "end_time": "02:10.46",
+      "text": "Aujourd'hui, ça commence avec toi"
+    },
+    {
+      "start_ms": 132940,
+      "end_ms": 138940,
+      "start_time": "02:12.94",
+      "end_time": "02:18.94",
+      "text": ""
+    }
+  ]
+}

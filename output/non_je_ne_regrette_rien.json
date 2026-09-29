@@ -1,0 +1,279 @@
+{
+  "title": "Non, Je Ne Regrette Rien",
+  "artist": "Edith Piaf",
+  "album": "フランス",
+  "duration": 149.0,
+  "provider": "lrclib",
+  "source_id": "36986496",
+  "detected_language": "fr",
+  "language_name": "French (Français)",
+  "language_confidence": 1.0,
+  "is_foreign": true,
+  "is_instrumental": false,
+  "lyrics": {
+    "foreign": {
+      "language": "fr",
+      "language_name": "French (Français)",
+      "plain": "Non, rien de rien\nNon, je ne regrette rien\nNi le bien, qu'on m'a fait\nNi le mal, tout ça m'est bien égal\n\nNon, rien de rien\nNon, je ne regrette rien\nC'est payé, balayé, oublié\nJe me fous du passé\n\nAvec mes souvenirs\nJ'ai allumé le feu\nMes chagrins, mes plaisirs\nJe n'ai plus besoin d'eux\nBalayer les amours\nAvec leurs trémolos\nBalayer pour toujours\nJe repars à zéro\n\nNon, rien de rien\nNon, je ne regrette rien\nNi le bien, qu'on m'a fait\nNi le mal, tout ça m'est bien égal\n\nNon, rien de rien\nNon, je ne regrette rien\nCar ma vie, car mes joies\nAujourd'hui, ça commence avec toi",
+      "synced_lrc": "[00:11.25] Non, rien de rien\n[00:16.34] Non, je ne regrette rien\n[00:21.41] Ni le bien, qu'on m'a fait\n[00:27.03] Ni le mal, tout ça m'est bien égal\n[00:33.17] Non, rien de rien\n[00:38.25] Non, je ne regrette rien\n[00:43.45] C'est payé, balayé, oublié\n[00:51.70] Je me fous du passé\n[00:57.16] Avec mes souvenirs\n[01:00.80] J'ai allumé le feu\n[01:03.99] Mes chagrins, mes plaisirs\n[01:06.66] Je n'ai plus besoin d'eux\n[01:09.89] Balayer les amours\n[01:12.47] Avec leurs trémolos\n[01:15.62] Balayer pour toujours\n[01:18.72] Je repars à zéro\n[01:24.97] Non, rien de rien\n[01:30.56] Non, je ne regrette rien\n[01:35.44] Ni le bien, qu'on m'a fait\n[01:41.16] Ni le mal, tout ça m'est bien égal\n[01:47.51] Non, rien de rien\n[01:52.96] Non, je ne regrette rien\n[01:57.78] Car ma vie, car mes joies\n[02:03.46] Aujourd'hui, ça commence avec toi\n[02:12.94] "
+    },
+    "english": {
+      "language": "en",
+      "language_name": "English",
+      "plain": "No, nothing\nNo, I don't regret anything\nNor the good that was done to me\nNeither evil, all that doesn't matter to me\nNo, nothing\nNo, I don't regret anything\nIt's paid for, swept away, forgotten\nI don't care about the past\nWith my memories\nI lit the fire\nMy sorrows, my pleasures\nI don't need them anymore\nSweep away the loves\nWith their tremolos\nSweep forever\nI'm starting from scratch\nNo, nothing\nNo, I don't regret anything\nNor the good that was done to me\nNeither evil, all that doesn't matter to me\nNo, nothing\nNo, I don't regret anything\nBecause my life, because my joys\nToday it starts with you\n",
+      "synced_lrc": "[00:11.25]No, nothing\n[00:16.34]No, I don't regret anything\n[00:21.41]Nor the good that was done to me\n[00:27.03]Neither evil, all that doesn't matter to me\n[00:33.17]No, nothing\n[00:38.25]No, I don't regret anything\n[00:43.45]It's paid for, swept away, forgotten\n[00:51.70]I don't care about the past\n[00:57.16]With my memories\n[01:00.80]I lit the fire\n[01:03.99]My sorrows, my pleasures\n[01:06.66]I don't need them anymore\n[01:09.89]Sweep away the loves\n[01:12.47]With their tremolos\n[01:15.62]Sweep forever\n[01:18.72]I'm starting from scratch\n[01:24.97]No, nothing\n[01:30.56]No, I don't regret anything\n[01:35.44]Nor the good that was done to me\n[01:41.16]Neither evil, all that doesn't matter to me\n[01:47.51]No, nothing\n[01:52.96]No, I don't regret anything\n[01:57.78]Because my life, because my joys\n[02:03.46]Today it starts with you"
+    }
+  },
+  "lines_count": 25,
+  "lines": [
+    {
+      "start_ms": 11250,
+      "end_ms": 16340,
+      "start_time": "00:11.25",
+      "end_time": "00:16.34",
+      "foreign": "Non, rien de rien",
+      "english": "No, nothing",
+      "text": "Non, rien de rien",
+      "translation": "No, nothing"
+    },
+    {
+      "start_ms": 16340,
+      "end_ms": 21410,
+      "start_time": "00:16.34",
+      "end_time": "00:21.41",
+      "foreign": "Non, je ne regrette rien",
+      "english": "No, I don't regret anything",
+      "text": "Non, je ne regrette rien",
+      "translation": "No, I don't regret anything"
+    },
+    {
+      "start_ms": 21410,
+      "end_ms": 27030,
+      "start_time": "00:21.41",
+      "end_time": "00:27.03",
+      "foreign": "Ni le bien, qu'on m'a fait",
+      "english": "Nor the good that was done to me",
+      "text": "Ni le bien, qu'on m'a fait",
+      "translation": "Nor the good that was done to me"
+    },
+    {
+      "start_ms": 27030,
+      "end_ms": 33170,
+      "start_time": "00:27.03",
+      "end_time": "00:33.17",
+      "foreign": "Ni le mal, tout ça m'est bien égal",
+      "english": "Neither evil, all that doesn't matter to me",
+      "text": "Ni le mal, tout ça m'est bien égal",
+      "translation": "Neither evil, all that doesn't matter to me"
+    },
+    {
+      "start_ms": 33170,
+      "end_ms": 38250,
+      "start_time": "00:33.17",
+      "end_time": "00:38.25",
+      "foreign": "Non, rien de rien",
+      "english": "No, nothing",
+      "text": "Non, rien de rien",
+      "translation": "No, nothing"
+    },
+    {
+      "start_ms": 38250,
+      "end_ms": 43450,
+      "start_time": "00:38.25",
+      "end_time": "00:43.45",
+      "foreign": "Non, je ne regrette rien",
+      "english": "No, I don't regret anything",
+      "text": "Non, je ne regrette rien",
+      "translation": "No, I don't regret anything"
+    },
+    {
+      "start_ms": 43450,
+      "end_ms": 50450,
+      "start_time": "00:43.45",
+      "end_time": "00:50.45",
+      "foreign": "C'est payé, balayé, oublié",
+      "english": "It's paid for, swept away, forgotten",
+      "text": "C'est payé, balayé, oublié",
+      "translation": "It's paid for, swept away, forgotten"
+    },
+    {
+      "start_ms": 51700,
+      "end_ms": 57160,
+      "start_time": "00:51.70",
+      "end_time": "00:57.16",
+      "foreign": "Je me fous du passé",
+      "english": "I don't care about the past",
+      "text": "Je me fous du passé",
+      "translation": "I don't care about the past"
+    },
+    {
+      "start_ms": 57160,
+      "end_ms": 60800,
+      "start_time": "00:57.16",
+      "end_time": "01:00.80",
+      "foreign": "Avec mes souvenirs",
+      "english": "With my memories",
+      "text": "Avec mes souvenirs",
+      "translation": "With my memories"
+    },
+    {
+      "start_ms": 60800,
+      "end_ms": 63990,
+      "start_time": "01:00.80",
+      "end_time": "01:03.99",
+      "foreign": "J'ai allumé le feu",
+      "english": "I lit the fire",
+      "text": "J'ai allumé le feu",
+      "translation": "I lit the fire"
+    },
+    {
+      "start_ms": 63990,
+      "end_ms": 66660,
+      "start_time": "01:03.99",
+      "end_time": "01:06.66",
+      "foreign": "Mes chagrins, mes plaisirs",
+      "english": "My sorrows, my pleasures",
+      "text": "Mes chagrins, mes plaisirs",
+      "translation": "My sorrows, my pleasures"
+    },
+    {
+      "start_ms": 66660,
+      "end_ms": 69890,
+      "start_time": "01:06.66",
+      "end_time": "01:09.89",
+      "foreign": "Je n'ai plus besoin d'eux",
+      "english": "I don't need them anymore",
+      "text": "Je n'ai plus besoin d'eux",
+      "translation": "I don't need them anymore"
+    },
+    {
+      "start_ms": 69890,
+      "end_ms": 72470,
+      "start_time": "01:09.89",
+      "end_time": "01:12.47",
+      "foreign": "Balayer les amours",
+      "english": "Sweep away the loves",
+      "text": "Balayer les amours",
+      "translation": "Sweep away the loves"
+    },
+    {
+      "start_ms": 72470,
+      "end_ms": 75620,
+      "start_time": "01:12.47",
+      "end_time": "01:15.62",
+      "foreign": "Avec leurs trémolos",
+      "english": "With their tremolos",
+      "text": "Avec leurs trémolos",
+      "translation": "With their tremolos"
+    },
+    {
+      "start_ms": 75620,
+      "end_ms": 78720,
+      "start_time": "01:15.62",
+      "end_time": "01:18.72",
+      "foreign": "Balayer pour toujours",
+      "english": "Sweep forever",
+      "text": "Balayer pour toujours",
+      "translation": "Sweep forever"
+    },
+    {
+      "start_ms": 78720,
+      "end_ms": 84970,
+      "start_time": "01:18.72",
+      "end_time": "01:24.97",
+      "foreign": "Je repars à zéro",
+      "english": "I'm starting from scratch",
+      "text": "Je repars à zéro",
+      "translation": "I'm starting from scratch"
+    },
+    {
+      "start_ms": 84970,
+      "end_ms": 90560,
+      "start_time": "01:24.97",
+      "end_time": "01:30.56",
+      "foreign": "Non, rien de rien",
+      "english": "No, nothing",
+      "text": "Non, rien de rien",
+      "translation": "No, nothing"
+    },
+    {
+      "start_ms": 90560,
+      "end_ms": 95440,
+      "start_time": "01:30.56",
+      "end_time": "01:35.44",
+      "foreign": "Non, je ne regrette rien",
+      "english": "No, I don't regret anything",
+      "text": "Non, je ne regrette rien",
+      "translation": "No, I don't regret anything"
+    },
+    {
+      "start_ms": 95440,
+      "end_ms": 101160,
+      "start_time": "01:35.44",
+      "end_time": "01:41.16",
+      "foreign": "Ni le bien, qu'on m'a fait",
+      "english": "Nor the good that was done to me",
+      "text": "Ni le bien, qu'on m'a fait",
+      "translation": "Nor the good that was done to me"
+    },
+    {
+      "start_ms": 101160,
+      "end_ms": 107510,
+      "start_time": "01:41.16",
+      "end_time": "01:47.51",
+      "foreign": "Ni le mal, tout ça m'est bien égal",
+      "english": "Neither evil, all that doesn't matter to me",
+      "text": "Ni le mal, tout ça m'est bien égal",
+      "translation": "Neither evil, all that doesn't matter to me"
+    },
+    {
+      "start_ms": 107510,
+      "end_ms": 112960,
+      "start_time": "01:47.51",
+      "end_time": "01:52.96",
+      "foreign": "Non, rien de rien",
+      "english": "No, nothing",
+      "text": "Non, rien de rien",
+      "translation": "No, nothing"
+    },
+    {
+      "start_ms": 112960,
+      "end_ms": 117780,
+      "start_time": "01:52.96",
+      "end_time": "01:57.78",
+      "foreign": "Non, je ne regrette rien",
+      "english": "No, I don't regret anything",
+      "text": "Non, je ne regrette rien",
+      "translation": "No, I don't regret anything"
+    },
+    {
+      "start_ms": 117780,
+      "end_ms": 123460,
+      "start_time": "01:57.78",
+      "end_time": "02:03.46",
+      "foreign": "Car ma vie, car mes joies",
+      "english": "Because my life, because my joys",
+      "text": "Car ma vie, car mes joies",
+      "translation": "Because my life, because my joys"
+    },
+    {
+      "start_ms": 123460,
+      "end_ms": 130460,
+      "start_time": "02:03.46",
+      "end_time": "02:10.46",
+      "foreign": "Aujourd'hui, ça commence avec toi",
+      "english": "Today it starts with you",
+      "text": "Aujourd'hui, ça commence avec toi",
+      "translation": "Today it starts with you"
+    },
+    {
+      "start_ms": 132940,
+      "end_ms": 138940,
+      "start_time": "02:12.94",
+      "end_time": "02:18.94",
+      "foreign": "",
+      "english": "",
+      "text": ""
+    }
+  ]
+}

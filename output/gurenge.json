@@ -1,0 +1,287 @@
+{
+  "title": "Gurenge",
+  "artist": "LiSA",
+  "album": "Gurenge",
+  "duration": 238.586667,
+  "provider": "lrclib",
+  "source_id": "18858100",
+  "detected_language": "ja",
+  "language_confidence": 0.95,
+  "is_instrumental": false,
+  "lines_count": 39,
+  "lines": [
+    {
+      "start_ms": 1060,
+      "end_ms": 8060,
+      "start_time": "00:01.06",
+      "end_time": "00:08.06",
+      "text": "強くなれる理由を知った 僕を連れて進め"
+    },
+    {
+      "start_ms": 15610,
+      "end_ms": 18710,
+      "start_time": "00:15.61",
+      "end_time": "00:18.71",
+      "text": ""
+    },
+    {
+      "start_ms": 18710,
+      "end_ms": 25710,
+      "start_time": "00:18.71",
+      "end_time": "00:25.71",
+      "text": "泥だらけの走馬灯に酔う こわばる心"
+    },
+    {
+      "start_ms": 25770,
+      "end_ms": 32770,
+      "start_time": "00:25.77",
+      "end_time": "00:32.77",
+      "text": "震える手は掴みたいものがある それだけさ"
+    },
+    {
+      "start_ms": 32830,
+      "end_ms": 36480,
+      "start_time": "00:32.83",
+      "end_time": "00:36.48",
+      "text": "夜の匂いに (I'll spend all thirty nights)"
+    },
+    {
+      "start_ms": 36480,
+      "end_ms": 39920,
+      "start_time": "00:36.48",
+      "end_time": "00:39.92",
+      "text": "空睨んでも (Staring into the sky)"
+    },
+    {
+      "start_ms": 39920,
+      "end_ms": 46920,
+      "start_time": "00:39.92",
+      "end_time": "00:46.92",
+      "text": "変わっていけるのは自分自身だけ それだけさ"
+    },
+    {
+      "start_ms": 47140,
+      "end_ms": 54140,
+      "start_time": "00:47.14",
+      "end_time": "00:54.14",
+      "text": "強くなれる理由を知った 僕を連れて進め"
+    },
+    {
+      "start_ms": 60120,
+      "end_ms": 61410,
+      "start_time": "01:00.12",
+      "end_time": "01:01.41",
+      "text": "どうしたって！"
+    },
+    {
+      "start_ms": 61410,
+      "end_ms": 64660,
+      "start_time": "01:01.41",
+      "end_time": "01:04.66",
+      "text": "消せない夢も 止まれない今も"
+    },
+    {
+      "start_ms": 64660,
+      "end_ms": 69160,
+      "start_time": "01:04.66",
+      "end_time": "01:09.16",
+      "text": "誰かのために強くなれるなら"
+    },
+    {
+      "start_ms": 69160,
+      "end_ms": 74350,
+      "start_time": "01:09.16",
+      "end_time": "01:14.35",
+      "text": "ありがとう 悲しみよ"
+    },
+    {
+      "start_ms": 74350,
+      "end_ms": 79010,
+      "start_time": "01:14.35",
+      "end_time": "01:19.01",
+      "text": "世界に打ちのめされて 負ける意味を知った"
+    },
+    {
+      "start_ms": 79010,
+      "end_ms": 86010,
+      "start_time": "01:19.01",
+      "end_time": "01:26.01",
+      "text": "紅蓮の華よ咲き誇れ！ 運命を照らして"
+    },
+    {
+      "start_ms": 87430,
+      "end_ms": 93470,
+      "start_time": "01:27.43",
+      "end_time": "01:33.47",
+      "text": ""
+    },
+    {
+      "start_ms": 93470,
+      "end_ms": 100470,
+      "start_time": "01:33.47",
+      "end_time": "01:40.47",
+      "text": "イナビカリの雑音が耳を刺す 戸惑う心"
+    },
+    {
+      "start_ms": 100520,
+      "end_ms": 107520,
+      "start_time": "01:40.52",
+      "end_time": "01:47.52",
+      "text": "優しいだけじゃ守れないものがある？ わかってるけど"
+    },
+    {
+      "start_ms": 107990,
+      "end_ms": 111730,
+      "start_time": "01:47.99",
+      "end_time": "01:51.73",
+      "text": "水面下で絡まる善悪 透けて見える偽善に天罰"
+    },
+    {
+      "start_ms": 111730,
+      "end_ms": 112820,
+      "start_time": "01:51.73",
+      "end_time": "01:52.82",
+      "text": "Tell me why, Tell me why, Tell me why, Tell me..."
+    },
+    {
+      "start_ms": 112820,
+      "end_ms": 115070,
+      "start_time": "01:52.82",
+      "end_time": "01:55.07",
+      "text": "I don't need you!"
+    },
+    {
+      "start_ms": 115070,
+      "end_ms": 120690,
+      "start_time": "01:55.07",
+      "end_time": "02:00.69",
+      "text": "逸材の花より 挑み続け咲いた一輪が美しい"
+    },
+    {
+      "start_ms": 120690,
+      "end_ms": 125200,
+      "start_time": "02:00.69",
+      "end_time": "02:05.20",
+      "text": "乱暴に敷き詰められた トゲだらけの道も"
+    },
+    {
+      "start_ms": 125200,
+      "end_ms": 132200,
+      "start_time": "02:05.20",
+      "end_time": "02:12.20",
+      "text": "本気の僕だけに現れるから 乗り越えてみせるよ"
+    },
+    {
+      "start_ms": 134710,
+      "end_ms": 139420,
+      "start_time": "02:14.71",
+      "end_time": "02:19.42",
+      "text": "簡単に片付けられた 守れなかった夢も"
+    },
+    {
+      "start_ms": 139420,
+      "end_ms": 146420,
+      "start_time": "02:19.42",
+      "end_time": "02:26.42",
+      "text": "紅蓮の心臓に根を生やし この血に宿って"
+    },
+    {
+      "start_ms": 149800,
+      "end_ms": 156800,
+      "start_time": "02:29.80",
+      "end_time": "02:36.80",
+      "text": ""
+    },
+    {
+      "start_ms": 161620,
+      "end_ms": 168620,
+      "start_time": "02:41.62",
+      "end_time": "02:48.62",
+      "text": "人知れず儚い 散りゆく結末"
+    },
+    {
+      "start_ms": 168700,
+      "end_ms": 175700,
+      "start_time": "02:48.70",
+      "end_time": "02:55.70",
+      "text": "無情に破れた 悲鳴の風吹く"
+    },
+    {
+      "start_ms": 175890,
+      "end_ms": 182360,
+      "start_time": "02:55.89",
+      "end_time": "03:02.36",
+      "text": "誰かの笑う影 誰かの泣き声"
+    },
+    {
+      "start_ms": 182360,
+      "end_ms": 187960,
+      "start_time": "03:02.36",
+      "end_time": "03:07.96",
+      "text": "誰もが幸せを願ってる"
+    },
+    {
+      "start_ms": 187960,
+      "end_ms": 189340,
+      "start_time": "03:07.96",
+      "end_time": "03:09.34",
+      "text": "どうしたって！"
+    },
+    {
+      "start_ms": 189340,
+      "end_ms": 192710,
+      "start_time": "03:09.34",
+      "end_time": "03:12.71",
+      "text": "消せない夢も 止まれない今も"
+    },
+    {
+      "start_ms": 192710,
+      "end_ms": 197070,
+      "start_time": "03:12.71",
+      "end_time": "03:17.07",
+      "text": "誰かのために強くなれるなら"
+    },
+    {
+      "start_ms": 197070,
+      "end_ms": 202310,
+      "start_time": "03:17.07",
+      "end_time": "03:22.31",
+      "text": "ありがとう 悲しみよ"
+    },
+    {
+      "start_ms": 202310,
+      "end_ms": 207020,
+      "start_time": "03:22.31",
+      "end_time": "03:27.02",
+      "text": "世界に打ちのめされて 負ける意味を知った"
+    },
+    {
+      "start_ms": 207020,
+      "end_ms": 214020,
+      "start_time": "03:27.02",
+      "end_time": "03:34.02",
+      "text": "紅蓮の華よ咲き誇れ！ 運命を照らして"
+    },
+    {
+      "start_ms": 217780,
+      "end_ms": 222140,
+      "start_time": "03:37.78",
+      "end_time": "03:42.14",
+      "text": ""
+    },
+    {
+      "start_ms": 222140,
+      "end_ms": 224280,
+      "start_time": "03:42.14",
+      "end_time": "03:44.28",
+      "text": "運命を照らして"
+    },
+    {
+      "start_ms": 224280,
+      "end_ms": 230280,
+      "start_time": "03:44.28",
+      "end_time": "03:50.28",
+      "text": ""
+    }
+  ]
+}

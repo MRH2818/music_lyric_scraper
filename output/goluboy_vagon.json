@@ -1,0 +1,469 @@
+{
+  "title": "Goluboi Wagon (Голубой вагон)",
+  "artist": "Liaze, Jaschka, NILETTO, equal",
+  "album": "Goluboi Wagon (Голубой вагон)",
+  "duration": 192.0,
+  "provider": "lrclib",
+  "source_id": "26355281",
+  "detected_language": "ru",
+  "language_name": "Russian (Русский)",
+  "language_confidence": 0.95,
+  "is_foreign": true,
+  "is_instrumental": false,
+  "lyrics": {
+    "foreign": {
+      "language": "ru",
+      "language_name": "Russian (Русский)",
+      "plain": "Илюша, я с тобой поеду\nСпасибо, Jaschka, NILETTO тоже с нами\n\nJa, ich mach mich auf den Weg mit 'nem Ziel, doch ohne Plan\nHör von Weitem: \"Ну давай, ай-яй-яй\"\nGuck, wie schnell die Zeit vergeht, auf 'nen guten Neuanfang\nDenn das Jahr ist fast vorbei\n\nМедленно минуты уплывают вдаль\nВстречи с ними ты уже не жди\nИ хотя нам прошлого немного жаль\nЛучшее, конечно, впереди\n\nСкатертью-скатертью дальний путь стелется\nИ упирается прямо в небосклон\nКаждому-каждому в лучшее верится\nКатится-катится голубой вагон\n\nКатится-катится голубой вагон\nКатится-катится голубой вагон\n\nUnd wir sitzen nach der Schicht mit denselben Jungs am Tisch\nNacht wird gut, weil heute sieht man sich mal wieder\nAuch wenn ich damals noch vermiss, alles gut so, wie es ist\nIn mei'm Kopf sind noch so viele alte Lieder\n\nМожет, мы обидели кого-то зря\nКалендарь закроет старый лист\nК новым приключениям спешим, друзья\nЭй, прибавь-ка ходу, машинист\n\nСкатертью-скатертью дальний путь стелется\nИ упирается прямо в небосклон\nКаждому-каждому в лучшее верится\nКатится-катится голубой вагон\n\nЭто international phonk automotivo (ту-ту)\nСлышится родной мотив локомотива (тук-тук)\nПроводили семьёй бабушку давно\nВремена пройдут, и мы с ней встретимся в депо\n\nГолубой вагон бежит, качается\nСкорый поезд набирает ход (ммм)\nНу зачем же этот день кончается?\nПусть бы он тянулся целый год\n\nКатится, катится голубой вагон\n\nСкатертью-скатертью дальний путь стелется\nИ упирается прямо в небосклон\nКаждому-каждому в лучшее верится\nКатится-катится голубой вагон\n\nКатится-катится голубой вагон\nКатится-катится голубой вагон",
+      "synced_lrc": "[00:10.08] Илюша, я с тобой поеду\n[00:12.85] Спасибо, Jaschka, NILETTO тоже с нами\n[00:22.33] Ja, ich mach mich auf den Weg mit 'nem Ziel, doch ohne Plan\n[00:25.97] Hör von Weitem: \"Ну давай, ай-яй-яй\"\n[00:29.37] Guck, wie schnell die Zeit vergeht, auf 'nen guten Neuanfang\n[00:32.95] Denn das Jahr ist fast vorbei\n[00:36.06] Медленно минуты уплывают вдаль\n[00:39.46] Встречи с ними ты уже не жди\n[00:43.05] И хотя нам прошлого немного жаль\n[00:46.67] Лучшее, конечно, впереди\n[00:49.92] Скатертью-скатертью дальний путь стелется\n[00:53.69] И упирается прямо в небосклон\n[00:57.13] Каждому-каждому в лучшее верится\n[01:00.75] Катится-катится голубой вагон\n[01:07.75] Катится-катится голубой вагон\n[01:14.88] Катится-катится голубой вагон\n[01:22.33] Und wir sitzen nach der Schicht mit denselben Jungs am Tisch\n[01:25.83] Nacht wird gut, weil heute sieht man sich mal wieder\n[01:29.24] Auch wenn ich damals noch vermiss, alles gut so, wie es ist\n[01:32.90] In mei'm Kopf sind noch so viele alte Lieder\n[01:36.08] Может, мы обидели кого-то зря\n[01:39.67] Календарь закроет старый лист\n[01:42.92] К новым приключениям спешим, друзья\n[01:46.64] Эй, прибавь-ка ходу, машинист\n[01:50.02] Скатертью-скатертью дальний путь стелется\n[01:53.61] И упирается прямо в небосклон\n[01:57.29] Каждому-каждому в лучшее верится\n[02:00.61] Катится-катится голубой вагон\n[02:04.63] Это international phonk automotivo (ту-ту)\n[02:08.18] Слышится родной мотив локомотива (тук-тук)\n[02:11.75] Проводили семьёй бабушку давно\n[02:14.72] Времена пройдут, и мы с ней встретимся в депо\n[02:18.33] Голубой вагон бежит, качается\n[02:21.89] Скорый поезд набирает ход (ммм)\n[02:25.39] Ну зачем же этот день кончается?\n[02:28.81] Пусть бы он тянулся целый год\n[02:36.03] Катится, катится голубой вагон\n[02:39.36] Скатертью-скатертью дальний путь стелется\n[02:43.16] И упирается прямо в небосклон\n[02:46.69] Каждому-каждому в лучшее верится\n[02:50.12] Катится-катится голубой вагон\n[02:57.18] Катится-катится голубой вагон\n[03:04.28] Катится-катится голубой вагон\n[03:07.26] "
+    },
+    "english": {
+      "language": "en",
+      "language_name": "English",
+      "plain": "Ilyusha, I will go with you\nThank you, Jaschka, NILETTO is also with us\nJa, ich mach mich auf den Weg mit 'nem Ziel, doch ohne Plan\nHör von Weitem: \"Come on, ah-ah-ah\"\nGuck, wie schnell die Zeit vergeht, auf 'nen guten Neuanfang\nDenn das Jahr ist fast vorbei\nSlowly the minutes float away into the distance\nDon't expect to meet them anymore\nAnd although we feel a little sorry for the past\nThe best is, of course, yet to come\nThe long journey spreads like good riddance\nAnd it hits the sky\nEveryone believes in the best\nThe blue carriage rolls and rolls\nThe blue carriage rolls and rolls\nThe blue carriage rolls and rolls\nUnd wir sitzen nach der Schicht mit denselben Jungs am Tisch\nNacht wird gut, weil heute sieht man sich mal wieder\nAuch wenn ich damals noch vermiss, alles gut so, wie es ist\nIn mei'm Kopf sind noch so viele alte Lieder\nMaybe we offended someone in vain\nThe calendar will cover the old sheet\nWe are in a hurry to new adventures, friends.\nHey, speed up, driver\nThe long journey spreads like good riddance\nAnd it hits the sky\nEveryone believes in the best\nThe blue carriage rolls and rolls\nThis is international phonk automotivo (too-too)\nYou can hear the native motive of the locomotive (knock-knock)\nThe family saw off grandma for a long time\nTime will pass, and we will meet her at the depot\nThe blue carriage runs and sways\nThe fast train is picking up speed (mmm)\nWell, why does this day end?\nLet it drag on for a whole year\nThe blue carriage is rolling, rolling\nThe long journey spreads like good riddance\nAnd it hits the sky\nEveryone believes in the best\nThe blue carriage rolls and rolls\nThe blue carriage rolls and rolls\nThe blue carriage rolls and rolls\n",
+      "synced_lrc": "[00:10.08]Ilyusha, I will go with you\n[00:12.85]Thank you, Jaschka, NILETTO is also with us\n[00:22.33]Ja, ich mach mich auf den Weg mit 'nem Ziel, doch ohne Plan\n[00:25.97]Hör von Weitem: \"Come on, ah-ah-ah\"\n[00:29.37]Guck, wie schnell die Zeit vergeht, auf 'nen guten Neuanfang\n[00:32.95]Denn das Jahr ist fast vorbei\n[00:36.06]Slowly the minutes float away into the distance\n[00:39.46]Don't expect to meet them anymore\n[00:43.05]And although we feel a little sorry for the past\n[00:46.67]The best is, of course, yet to come\n[00:49.92]The long journey spreads like good riddance\n[00:53.69]And it hits the sky\n[00:57.13]Everyone believes in the best\n[01:00.75]The blue carriage rolls and rolls\n[01:07.75]The blue carriage rolls and rolls\n[01:14.88]The blue carriage rolls and rolls\n[01:22.33]Und wir sitzen nach der Schicht mit denselben Jungs am Tisch\n[01:25.83]Nacht wird gut, weil heute sieht man sich mal wieder\n[01:29.24]Auch wenn ich damals noch vermiss, alles gut so, wie es ist\n[01:32.90]In mei'm Kopf sind noch so viele alte Lieder\n[01:36.08]Maybe we offended someone in vain\n[01:39.67]The calendar will cover the old sheet\n[01:42.92]We are in a hurry to new adventures, friends.\n[01:46.64]Hey, speed up, driver\n[01:50.02]The long journey spreads like good riddance\n[01:53.61]And it hits the sky\n[01:57.29]Everyone believes in the best\n[02:00.61]The blue carriage rolls and rolls\n[02:04.63]This is international phonk automotivo (too-too)\n[02:08.18]You can hear the native motive of the locomotive (knock-knock)\n[02:11.75]The family saw off grandma for a long time\n[02:14.72]Time will pass, and we will meet her at the depot\n[02:18.33]The blue carriage runs and sways\n[02:21.89]The fast train is picking up speed (mmm)\n[02:25.39]Well, why does this day end?\n[02:28.81]Let it drag on for a whole year\n[02:36.03]The blue carriage is rolling, rolling\n[02:39.36]The long journey spreads like good riddance\n[02:43.16]And it hits the sky\n[02:46.69]Everyone believes in the best\n[02:50.12]The blue carriage rolls and rolls\n[02:57.18]The blue carriage rolls and rolls\n[03:04.28]The blue carriage rolls and rolls"
+    }
+  },
+  "lines_count": 44,
+  "lines": [
+    {
+      "start_ms": 10080,
+      "end_ms": 12850,
+      "start_time": "00:10.08",
+      "end_time": "00:12.85",
+      "foreign": "Илюша, я с тобой поеду",
+      "english": "Ilyusha, I will go with you",
+      "text": "Илюша, я с тобой поеду",
+      "translation": "Ilyusha, I will go with you"
+    },
+    {
+      "start_ms": 12850,
+      "end_ms": 19850,
+      "start_time": "00:12.85",
+      "end_time": "00:19.85",
+      "foreign": "Спасибо, Jaschka, NILETTO тоже с нами",
+      "english": "Thank you, Jaschka, NILETTO is also with us",
+      "text": "Спасибо, Jaschka, NILETTO тоже с нами",
+      "translation": "Thank you, Jaschka, NILETTO is also with us"
+    },
+    {
+      "start_ms": 22330,
+      "end_ms": 25970,
+      "start_time": "00:22.33",
+      "end_time": "00:25.97",
+      "foreign": "Ja, ich mach mich auf den Weg mit 'nem Ziel, doch ohne Plan",
+      "english": "Ja, ich mach mich auf den Weg mit 'nem Ziel, doch ohne Plan",
+      "text": "Ja, ich mach mich auf den Weg mit 'nem Ziel, doch ohne Plan",
+      "translation": "Ja, ich mach mich auf den Weg mit 'nem Ziel, doch ohne Plan"
+    },
+    {
+      "start_ms": 25970,
+      "end_ms": 29370,
+      "start_time": "00:25.97",
+      "end_time": "00:29.37",
+      "foreign": "Hör von Weitem: \"Ну давай, ай-яй-яй\"",
+      "english": "Hör von Weitem: \"Come on, ah-ah-ah\"",
+      "text": "Hör von Weitem: \"Ну давай, ай-яй-яй\"",
+      "translation": "Hör von Weitem: \"Come on, ah-ah-ah\""
+    },
+    {
+      "start_ms": 29370,
+      "end_ms": 32950,
+      "start_time": "00:29.37",
+      "end_time": "00:32.95",
+      "foreign": "Guck, wie schnell die Zeit vergeht, auf 'nen guten Neuanfang",
+      "english": "Guck, wie schnell die Zeit vergeht, auf 'nen guten Neuanfang",
+      "text": "Guck, wie schnell die Zeit vergeht, auf 'nen guten Neuanfang",
+      "translation": "Guck, wie schnell die Zeit vergeht, auf 'nen guten Neuanfang"
+    },
+    {
+      "start_ms": 32950,
+      "end_ms": 36060,
+      "start_time": "00:32.95",
+      "end_time": "00:36.06",
+      "foreign": "Denn das Jahr ist fast vorbei",
+      "english": "Denn das Jahr ist fast vorbei",
+      "text": "Denn das Jahr ist fast vorbei",
+      "translation": "Denn das Jahr ist fast vorbei"
+    },
+    {
+      "start_ms": 36060,
+      "end_ms": 39460,
+      "start_time": "00:36.06",
+      "end_time": "00:39.46",
+      "foreign": "Медленно минуты уплывают вдаль",
+      "english": "Slowly the minutes float away into the distance",
+      "text": "Медленно минуты уплывают вдаль",
+      "translation": "Slowly the minutes float away into the distance"
+    },
+    {
+      "start_ms": 39460,
+      "end_ms": 43050,
+      "start_time": "00:39.46",
+      "end_time": "00:43.05",
+      "foreign": "Встречи с ними ты уже не жди",
+      "english": "Don't expect to meet them anymore",
+      "text": "Встречи с ними ты уже не жди",
+      "translation": "Don't expect to meet them anymore"
+    },
+    {
+      "start_ms": 43050,
+      "end_ms": 46670,
+      "start_time": "00:43.05",
+      "end_time": "00:46.67",
+      "foreign": "И хотя нам прошлого немного жаль",
+      "english": "And although we feel a little sorry for the past",
+      "text": "И хотя нам прошлого немного жаль",
+      "translation": "And although we feel a little sorry for the past"
+    },
+    {
+      "start_ms": 46670,
+      "end_ms": 49920,
+      "start_time": "00:46.67",
+      "end_time": "00:49.92",
+      "foreign": "Лучшее, конечно, впереди",
+      "english": "The best is, of course, yet to come",
+      "text": "Лучшее, конечно, впереди",
+      "translation": "The best is, of course, yet to come"
+    },
+    {
+      "start_ms": 49920,
+      "end_ms": 53690,
+      "start_time": "00:49.92",
+      "end_time": "00:53.69",
+      "foreign": "Скатертью-скатертью дальний путь стелется",
+      "english": "The long journey spreads like good riddance",
+      "text": "Скатертью-скатертью дальний путь стелется",
+      "translation": "The long journey spreads like good riddance"
+    },
+    {
+      "start_ms": 53690,
+      "end_ms": 57130,
+      "start_time": "00:53.69",
+      "end_time": "00:57.13",
+      "foreign": "И упирается прямо в небосклон",
+      "english": "And it hits the sky",
+      "text": "И упирается прямо в небосклон",
+      "translation": "And it hits the sky"
+    },
+    {
+      "start_ms": 57130,
+      "end_ms": 60750,
+      "start_time": "00:57.13",
+      "end_time": "01:00.75",
+      "foreign": "Каждому-каждому в лучшее верится",
+      "english": "Everyone believes in the best",
+      "text": "Каждому-каждому в лучшее верится",
+      "translation": "Everyone believes in the best"
+    },
+    {
+      "start_ms": 60750,
+      "end_ms": 67750,
+      "start_time": "01:00.75",
+      "end_time": "01:07.75",
+      "foreign": "Катится-катится голубой вагон",
+      "english": "The blue carriage rolls and rolls",
+      "text": "Катится-катится голубой вагон",
+      "translation": "The blue carriage rolls and rolls"
+    },
+    {
+      "start_ms": 67750,
+      "end_ms": 74750,
+      "start_time": "01:07.75",
+      "end_time": "01:14.75",
+      "foreign": "Катится-катится голубой вагон",
+      "english": "The blue carriage rolls and rolls",
+      "text": "Катится-катится голубой вагон",
+      "translation": "The blue carriage rolls and rolls"
+    },
+    {
+      "start_ms": 74880,
+      "end_ms": 81880,
+      "start_time": "01:14.88",
+      "end_time": "01:21.88",
+      "foreign": "Катится-катится голубой вагон",
+      "english": "The blue carriage rolls and rolls",
+      "text": "Катится-катится голубой вагон",
+      "translation": "The blue carriage rolls and rolls"
+    },
+    {
+      "start_ms": 82330,
+      "end_ms": 85830,
+      "start_time": "01:22.33",
+      "end_time": "01:25.83",
+      "foreign": "Und wir sitzen nach der Schicht mit denselben Jungs am Tisch",
+      "english": "Und wir sitzen nach der Schicht mit denselben Jungs am Tisch",
+      "text": "Und wir sitzen nach der Schicht mit denselben Jungs am Tisch",
+      "translation": "Und wir sitzen nach der Schicht mit denselben Jungs am Tisch"
+    },
+    {
+      "start_ms": 85830,
+      "end_ms": 89240,
+      "start_time": "01:25.83",
+      "end_time": "01:29.24",
+      "foreign": "Nacht wird gut, weil heute sieht man sich mal wieder",
+      "english": "Nacht wird gut, weil heute sieht man sich mal wieder",
+      "text": "Nacht wird gut, weil heute sieht man sich mal wieder",
+      "translation": "Nacht wird gut, weil heute sieht man sich mal wieder"
+    },
+    {
+      "start_ms": 89240,
+      "end_ms": 92900,
+      "start_time": "01:29.24",
+      "end_time": "01:32.90",
+      "foreign": "Auch wenn ich damals noch vermiss, alles gut so, wie es ist",
+      "english": "Auch wenn ich damals noch vermiss, alles gut so, wie es ist",
+      "text": "Auch wenn ich damals noch vermiss, alles gut so, wie es ist",
+      "translation": "Auch wenn ich damals noch vermiss, alles gut so, wie es ist"
+    },
+    {
+      "start_ms": 92900,
+      "end_ms": 96080,
+      "start_time": "01:32.90",
+      "end_time": "01:36.08",
+      "foreign": "In mei'm Kopf sind noch so viele alte Lieder",
+      "english": "In mei'm Kopf sind noch so viele alte Lieder",
+      "text": "In mei'm Kopf sind noch so viele alte Lieder",
+      "translation": "In mei'm Kopf sind noch so viele alte Lieder"
+    },
+    {
+      "start_ms": 96080,
+      "end_ms": 99670,
+      "start_time": "01:36.08",
+      "end_time": "01:39.67",
+      "foreign": "Может, мы обидели кого-то зря",
+      "english": "Maybe we offended someone in vain",
+      "text": "Может, мы обидели кого-то зря",
+      "translation": "Maybe we offended someone in vain"
+    },
+    {
+      "start_ms": 99670,
+      "end_ms": 102920,
+      "start_time": "01:39.67",
+      "end_time": "01:42.92",
+      "foreign": "Календарь закроет старый лист",
+      "english": "The calendar will cover the old sheet",
+      "text": "Календарь закроет старый лист",
+      "translation": "The calendar will cover the old sheet"
+    },
+    {
+      "start_ms": 102920,
+      "end_ms": 106640,
+      "start_time": "01:42.92",
+      "end_time": "01:46.64",
+      "foreign": "К новым приключениям спешим, друзья",
+      "english": "We are in a hurry to new adventures, friends.",
+      "text": "К новым приключениям спешим, друзья",
+      "translation": "We are in a hurry to new adventures, friends."
+    },
+    {
+      "start_ms": 106640,
+      "end_ms": 110020,
+      "start_time": "01:46.64",
+      "end_time": "01:50.02",
+      "foreign": "Эй, прибавь-ка ходу, машинист",
+      "english": "Hey, speed up, driver",
+      "text": "Эй, прибавь-ка ходу, машинист",
+      "translation": "Hey, speed up, driver"
+    },
+    {
+      "start_ms": 110020,
+      "end_ms": 113610,
+      "start_time": "01:50.02",
+      "end_time": "01:53.61",
+      "foreign": "Скатертью-скатертью дальний путь стелется",
+      "english": "The long journey spreads like good riddance",
+      "text": "Скатертью-скатертью дальний путь стелется",
+      "translation": "The long journey spreads like good riddance"
+    },
+    {
+      "start_ms": 113610,
+      "end_ms": 117290,
+      "start_time": "01:53.61",
+      "end_time": "01:57.29",
+      "foreign": "И упирается прямо в небосклон",
+      "english": "And it hits the sky",
+      "text": "И упирается прямо в небосклон",
+      "translation": "And it hits the sky"
+    },
+    {
+      "start_ms": 117290,
+      "end_ms": 120610,
+      "start_time": "01:57.29",
+      "end_time": "02:00.61",
+      "foreign": "Каждому-каждому в лучшее верится",
+      "english": "Everyone believes in the best",
+      "text": "Каждому-каждому в лучшее верится",
+      "translation": "Everyone believes in the best"
+    },
+    {
+      "start_ms": 120610,
+      "end_ms": 124630,
+      "start_time": "02:00.61",
+      "end_time": "02:04.63",
+      "foreign": "Катится-катится голубой вагон",
+      "english": "The blue carriage rolls and rolls",
+      "text": "Катится-катится голубой вагон",
+      "translation": "The blue carriage rolls and rolls"
+    },
+    {
+      "start_ms": 124630,
+      "end_ms": 128180,
+      "start_time": "02:04.63",
+      "end_time": "02:08.18",
+      "foreign": "Это international phonk automotivo (ту-ту)",
+      "english": "This is international phonk automotivo (too-too)",
+      "text": "Это international phonk automotivo (ту-ту)",
+      "translation": "This is international phonk automotivo (too-too)"
+    },
+    {
+      "start_ms": 128180,
+      "end_ms": 131750,
+      "start_time": "02:08.18",
+      "end_time": "02:11.75",
+      "foreign": "Слышится родной мотив локомотива (тук-тук)",
+      "english": "You can hear the native motive of the locomotive (knock-knock)",
+      "text": "Слышится родной мотив локомотива (тук-тук)",
+      "translation": "You can hear the native motive of the locomotive (knock-knock)"
+    },
+    {
+      "start_ms": 131750,
+      "end_ms": 134720,
+      "start_time": "02:11.75",
+      "end_time": "02:14.72",
+      "foreign": "Проводили семьёй бабушку давно",
+      "english": "The family saw off grandma for a long time",
+      "text": "Проводили семьёй бабушку давно",
+      "translation": "The family saw off grandma for a long time"
+    },
+    {
+      "start_ms": 134720,
+      "end_ms": 138330,
+      "start_time": "02:14.72",
+      "end_time": "02:18.33",
+      "foreign": "Времена пройдут, и мы с ней встретимся в депо",
+      "english": "Time will pass, and we will meet her at the depot",
+      "text": "Времена пройдут, и мы с ней встретимся в депо",
+      "translation": "Time will pass, and we will meet her at the depot"
+    },
+    {
+      "start_ms": 138330,
+      "end_ms": 141890,
+      "start_time": "02:18.33",
+      "end_time": "02:21.89",
+      "foreign": "Голубой вагон бежит, качается",
+      "english": "The blue carriage runs and sways",
+      "text": "Голубой вагон бежит, качается",
+      "translation": "The blue carriage runs and sways"
+    },
+    {
+      "start_ms": 141890,
+      "end_ms": 145390,
+      "start_time": "02:21.89",
+      "end_time": "02:25.39",
+      "foreign": "Скорый поезд набирает ход (ммм)",
+      "english": "The fast train is picking up speed (mmm)",
+      "text": "Скорый поезд набирает ход (ммм)",
+      "translation": "The fast train is picking up speed (mmm)"
+    },
+    {
+      "start_ms": 145390,
+      "end_ms": 148810,
+      "start_time": "02:25.39",
+      "end_time": "02:28.81",
+      "foreign": "Ну зачем же этот день кончается?",
+      "english": "Well, why does this day end?",
+      "text": "Ну зачем же этот день кончается?",
+      "translation": "Well, why does this day end?"
+    },
+    {
+      "start_ms": 148810,
+      "end_ms": 155810,
+      "start_time": "02:28.81",
+      "end_time": "02:35.81",
+      "foreign": "Пусть бы он тянулся целый год",
+      "english": "Let it drag on for a whole year",
+      "text": "Пусть бы он тянулся целый год",
+      "translation": "Let it drag on for a whole year"
+    },
+    {
+      "start_ms": 156030,
+      "end_ms": 159360,
+      "start_time": "02:36.03",
+      "end_time": "02:39.36",
+      "foreign": "Катится, катится голубой вагон",
+      "english": "The blue carriage is rolling, rolling",
+      "text": "Катится, катится голубой вагон",
+      "translation": "The blue carriage is rolling, rolling"
+    },
+    {
+      "start_ms": 159360,
+      "end_ms": 163160,
+      "start_time": "02:39.36",
+      "end_time": "02:43.16",
+      "foreign": "Скатертью-скатертью дальний путь стелется",
+      "english": "The long journey spreads like good riddance",
+      "text": "Скатертью-скатертью дальний путь стелется",
+      "translation": "The long journey spreads like good riddance"
+    },
+    {
+      "start_ms": 163160,
+      "end_ms": 166690,
+      "start_time": "02:43.16",
+      "end_time": "02:46.69",
+      "foreign": "И упирается прямо в небосклон",
+      "english": "And it hits the sky",
+      "text": "И упирается прямо в небосклон",
+      "translation": "And it hits the sky"
+    },
+    {
+      "start_ms": 166690,
+      "end_ms": 170120,
+      "start_time": "02:46.69",
+      "end_time": "02:50.12",
+      "foreign": "Каждому-каждому в лучшее верится",
+      "english": "Everyone believes in the best",
+      "text": "Каждому-каждому в лучшее верится",
+      "translation": "Everyone believes in the best"
+    },
+    {
+      "start_ms": 170120,
+      "end_ms": 177120,
+      "start_time": "02:50.12",
+      "end_time": "02:57.12",
+      "foreign": "Катится-катится голубой вагон",
+      "english": "The blue carriage rolls and rolls",
+      "text": "Катится-катится голубой вагон",
+      "translation": "The blue carriage rolls and rolls"
+    },
+    {
+      "start_ms": 177180,
+      "end_ms": 184180,
+      "start_time": "02:57.18",
+      "end_time": "03:04.18",
+      "foreign": "Катится-катится голубой вагон",
+      "english": "The blue carriage rolls and rolls",
+      "text": "Катится-катится голубой вагон",
+      "translation": "The blue carriage rolls and rolls"
+    },
+    {
+      "start_ms": 184280,
+      "end_ms": 187260,
+      "start_time": "03:04.28",
+      "end_time": "03:07.26",
+      "foreign": "Катится-катится голубой вагон",
+      "english": "The blue carriage rolls and rolls",
+      "text": "Катится-катится голубой вагон",
+      "translation": "The blue carriage rolls and rolls"
+    },
+    {
+      "start_ms": 187260,
+      "end_ms": 192000,
+      "start_time": "03:07.26",
+      "end_time": "03:12.00",
+      "foreign": "",
+      "english": "",
+      "text": ""
+    }
+  ]
+}

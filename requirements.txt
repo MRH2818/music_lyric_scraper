@@ -1,0 +1,6 @@
+requests>=2.31.0
+rich>=13.0.0
+langdetect>=1.0.9
+pytest>=7.0.0
+yt-dlp>=2024.0.0
+mutagen>=1.47.0

@@ -1,0 +1,413 @@
+{
+  "title": "Ai Se Eu Te Pego",
+  "artist": "Michel Teló; Michel Telo",
+  "album": "Na Balada (Limited Edition)",
+  "duration": 171.0,
+  "provider": "lrclib",
+  "source_id": "17371431",
+  "detected_language": "pt",
+  "language_confidence": 1.0,
+  "is_instrumental": false,
+  "lines_count": 57,
+  "lines": [
+    {
+      "start_ms": 2740,
+      "end_ms": 5070,
+      "start_time": "00:02.74",
+      "end_time": "00:05.07",
+      "text": "Nossa, hein?"
+    },
+    {
+      "start_ms": 5070,
+      "end_ms": 6550,
+      "start_time": "00:05.07",
+      "end_time": "00:06.55",
+      "text": "Que que é isso!"
+    },
+    {
+      "start_ms": 6550,
+      "end_ms": 8760,
+      "start_time": "00:06.55",
+      "end_time": "00:08.76",
+      "text": "Nossa (nossa)"
+    },
+    {
+      "start_ms": 8760,
+      "end_ms": 11710,
+      "start_time": "00:08.76",
+      "end_time": "00:11.71",
+      "text": "(Assim você me mata)"
+    },
+    {
+      "start_ms": 11710,
+      "end_ms": 13460,
+      "start_time": "00:11.71",
+      "end_time": "00:13.46",
+      "text": "Ai (se eu te pego)"
+    },
+    {
+      "start_ms": 13460,
+      "end_ms": 15110,
+      "start_time": "00:13.46",
+      "end_time": "00:15.11",
+      "text": "(Ai, ai, se eu te pego)"
+    },
+    {
+      "start_ms": 15110,
+      "end_ms": 16290,
+      "start_time": "00:15.11",
+      "end_time": "00:16.29",
+      "text": "Vamo que vamo, turma!"
+    },
+    {
+      "start_ms": 16290,
+      "end_ms": 18760,
+      "start_time": "00:16.29",
+      "end_time": "00:18.76",
+      "text": "Delícia, (delícia)"
+    },
+    {
+      "start_ms": 18760,
+      "end_ms": 21590,
+      "start_time": "00:18.76",
+      "end_time": "00:21.59",
+      "text": "(Assim você me mata)"
+    },
+    {
+      "start_ms": 21590,
+      "end_ms": 23480,
+      "start_time": "00:21.59",
+      "end_time": "00:23.48",
+      "text": "(Ai, se eu te pego)"
+    },
+    {
+      "start_ms": 23480,
+      "end_ms": 27620,
+      "start_time": "00:23.48",
+      "end_time": "00:27.62",
+      "text": "Ai, ai, se eu te pego, hein! (Vai!)"
+    },
+    {
+      "start_ms": 27620,
+      "end_ms": 33120,
+      "start_time": "00:27.62",
+      "end_time": "00:33.12",
+      "text": ""
+    },
+    {
+      "start_ms": 33120,
+      "end_ms": 36730,
+      "start_time": "00:33.12",
+      "end_time": "00:36.73",
+      "text": "Vamo comigo, turma!"
+    },
+    {
+      "start_ms": 36730,
+      "end_ms": 41970,
+      "start_time": "00:36.73",
+      "end_time": "00:41.97",
+      "text": "Sábado na balada"
+    },
+    {
+      "start_ms": 41970,
+      "end_ms": 46960,
+      "start_time": "00:41.97",
+      "end_time": "00:46.96",
+      "text": "A galera começou a dançar"
+    },
+    {
+      "start_ms": 46960,
+      "end_ms": 51150,
+      "start_time": "00:46.96",
+      "end_time": "00:51.15",
+      "text": "E passou a menina mais linda"
+    },
+    {
+      "start_ms": 51150,
+      "end_ms": 54970,
+      "start_time": "00:51.15",
+      "end_time": "00:54.97",
+      "text": "Tomei coragem e comecei a falar"
+    },
+    {
+      "start_ms": 54970,
+      "end_ms": 56520,
+      "start_time": "00:54.97",
+      "end_time": "00:56.52",
+      "text": "Como é que é, hein?"
+    },
+    {
+      "start_ms": 56520,
+      "end_ms": 58860,
+      "start_time": "00:56.52",
+      "end_time": "00:58.86",
+      "text": "Nossa, nossa"
+    },
+    {
+      "start_ms": 58860,
+      "end_ms": 61680,
+      "start_time": "00:58.86",
+      "end_time": "01:01.68",
+      "text": "Assim você me mata"
+    },
+    {
+      "start_ms": 61680,
+      "end_ms": 63560,
+      "start_time": "01:01.68",
+      "end_time": "01:03.56",
+      "text": "Ai, se eu te pego"
+    },
+    {
+      "start_ms": 63560,
+      "end_ms": 66250,
+      "start_time": "01:03.56",
+      "end_time": "01:06.25",
+      "text": "Ai, ai, se eu te pego"
+    },
+    {
+      "start_ms": 66250,
+      "end_ms": 68430,
+      "start_time": "01:06.25",
+      "end_time": "01:08.43",
+      "text": "Delícia, delícia"
+    },
+    {
+      "start_ms": 68430,
+      "end_ms": 71550,
+      "start_time": "01:08.43",
+      "end_time": "01:11.55",
+      "text": "Assim você me mata"
+    },
+    {
+      "start_ms": 71550,
+      "end_ms": 73500,
+      "start_time": "01:11.55",
+      "end_time": "01:13.50",
+      "text": "Ai, se eu te pego"
+    },
+    {
+      "start_ms": 73500,
+      "end_ms": 78880,
+      "start_time": "01:13.50",
+      "end_time": "01:18.88",
+      "text": "Ai, ai, se eu te pego, viu!"
+    },
+    {
+      "start_ms": 78880,
+      "end_ms": 81580,
+      "start_time": "01:18.88",
+      "end_time": "01:21.58",
+      "text": "Se eu te pego, viu?"
+    },
+    {
+      "start_ms": 81580,
+      "end_ms": 85450,
+      "start_time": "01:21.58",
+      "end_time": "01:25.45",
+      "text": ""
+    },
+    {
+      "start_ms": 85450,
+      "end_ms": 86600,
+      "start_time": "01:25.45",
+      "end_time": "01:26.60",
+      "text": "Quero ouvir, vai"
+    },
+    {
+      "start_ms": 86600,
+      "end_ms": 89480,
+      "start_time": "01:26.60",
+      "end_time": "01:29.48",
+      "text": "Sábado na balada"
+    },
+    {
+      "start_ms": 89480,
+      "end_ms": 91830,
+      "start_time": "01:29.48",
+      "end_time": "01:31.83",
+      "text": ""
+    },
+    {
+      "start_ms": 91830,
+      "end_ms": 96990,
+      "start_time": "01:31.83",
+      "end_time": "01:36.99",
+      "text": "A galera começou a dançar"
+    },
+    {
+      "start_ms": 96990,
+      "end_ms": 101010,
+      "start_time": "01:36.99",
+      "end_time": "01:41.01",
+      "text": "E passou a menina mais linda"
+    },
+    {
+      "start_ms": 101010,
+      "end_ms": 105560,
+      "start_time": "01:41.01",
+      "end_time": "01:45.56",
+      "text": "Tomei coragem e comecei a falar"
+    },
+    {
+      "start_ms": 105560,
+      "end_ms": 106650,
+      "start_time": "01:45.56",
+      "end_time": "01:46.65",
+      "text": "Vamo lá João"
+    },
+    {
+      "start_ms": 106650,
+      "end_ms": 108860,
+      "start_time": "01:46.65",
+      "end_time": "01:48.86",
+      "text": "Nossa, nossa"
+    },
+    {
+      "start_ms": 108860,
+      "end_ms": 111630,
+      "start_time": "01:48.86",
+      "end_time": "01:51.63",
+      "text": "Assim você me mata"
+    },
+    {
+      "start_ms": 111630,
+      "end_ms": 113550,
+      "start_time": "01:51.63",
+      "end_time": "01:53.55",
+      "text": "Ai, se eu te pego"
+    },
+    {
+      "start_ms": 113550,
+      "end_ms": 116340,
+      "start_time": "01:53.55",
+      "end_time": "01:56.34",
+      "text": "Ai, ai, se eu te pego"
+    },
+    {
+      "start_ms": 116340,
+      "end_ms": 118830,
+      "start_time": "01:56.34",
+      "end_time": "01:58.83",
+      "text": "Delícia, delícia"
+    },
+    {
+      "start_ms": 118830,
+      "end_ms": 121640,
+      "start_time": "01:58.83",
+      "end_time": "02:01.64",
+      "text": "Assim você me mata"
+    },
+    {
+      "start_ms": 121640,
+      "end_ms": 123500,
+      "start_time": "02:01.64",
+      "end_time": "02:03.50",
+      "text": "Ai, se eu te pego"
+    },
+    {
+      "start_ms": 123500,
+      "end_ms": 127700,
+      "start_time": "02:03.50",
+      "end_time": "02:07.70",
+      "text": "Ai, ai, se eu te pego, hein! (Vai!)"
+    },
+    {
+      "start_ms": 127700,
+      "end_ms": 134700,
+      "start_time": "02:07.70",
+      "end_time": "02:14.70",
+      "text": ""
+    },
+    {
+      "start_ms": 134810,
+      "end_ms": 136210,
+      "start_time": "02:14.81",
+      "end_time": "02:16.21",
+      "text": "Quero ouvir a galera comigo, vai!"
+    },
+    {
+      "start_ms": 136210,
+      "end_ms": 138720,
+      "start_time": "02:16.21",
+      "end_time": "02:18.72",
+      "text": "Nossa, (nossa)"
+    },
+    {
+      "start_ms": 138720,
+      "end_ms": 141530,
+      "start_time": "02:18.72",
+      "end_time": "02:21.53",
+      "text": "Assim você me mata"
+    },
+    {
+      "start_ms": 141530,
+      "end_ms": 143590,
+      "start_time": "02:21.53",
+      "end_time": "02:23.59",
+      "text": "Ai, (se eu te pego)"
+    },
+    {
+      "start_ms": 143590,
+      "end_ms": 146290,
+      "start_time": "02:23.59",
+      "end_time": "02:26.29",
+      "text": "(Ai, ai, se eu te pego)"
+    },
+    {
+      "start_ms": 146290,
+      "end_ms": 148770,
+      "start_time": "02:26.29",
+      "end_time": "02:28.77",
+      "text": "Delícia, delícia"
+    },
+    {
+      "start_ms": 148770,
+      "end_ms": 151760,
+      "start_time": "02:28.77",
+      "end_time": "02:31.76",
+      "text": "Assim você me mata"
+    },
+    {
+      "start_ms": 151760,
+      "end_ms": 153600,
+      "start_time": "02:31.76",
+      "end_time": "02:33.60",
+      "text": "Ai, se eu te pego"
+    },
+    {
+      "start_ms": 153600,
+      "end_ms": 156950,
+      "start_time": "02:33.60",
+      "end_time": "02:36.95",
+      "text": "Ai, ai, se eu te pego, viu, delícia?"
+    },
+    {
+      "start_ms": 156950,
+      "end_ms": 162730,
+      "start_time": "02:36.95",
+      "end_time": "02:42.73",
+      "text": ""
+    },
+    {
+      "start_ms": 162730,
+      "end_ms": 164940,
+      "start_time": "02:42.73",
+      "end_time": "02:44.94",
+      "text": "Nossa"
+    },
+    {
+      "start_ms": 164940,
+      "end_ms": 165630,
+      "start_time": "02:44.94",
+      "end_time": "02:45.63",
+      "text": "Ai, se eu te pego!"
+    },
+    {
+      "start_ms": 165630,
+      "end_ms": 171000,
+      "start_time": "02:45.63",
+      "end_time": "02:51.00",
+      "text": ""
+    }
+  ]
+}

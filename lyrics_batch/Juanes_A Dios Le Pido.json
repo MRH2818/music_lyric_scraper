@@ -1,0 +1,497 @@
+{
+  "title": "A Dios Le Pido",
+  "artist": "Juanes",
+  "album": "Sky Radio Top 1000 2025",
+  "duration": 205.0,
+  "provider": "lrclib",
+  "source_id": "37249691",
+  "detected_language": "es",
+  "language_confidence": 1.0,
+  "is_instrumental": false,
+  "lines_count": 69,
+  "lines": [
+    {
+      "start_ms": 20680,
+      "end_ms": 26840,
+      "start_time": "00:20.68",
+      "end_time": "00:26.84",
+      "text": "Que mis ojos se despierten con la luz de tu mirada, yo"
+    },
+    {
+      "start_ms": 26840,
+      "end_ms": 28040,
+      "start_time": "00:26.84",
+      "end_time": "00:28.04",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 28040,
+      "end_ms": 31690,
+      "start_time": "00:28.04",
+      "end_time": "00:31.69",
+      "text": "Que mi madre no se muera y que mi padre me recuerde"
+    },
+    {
+      "start_ms": 31690,
+      "end_ms": 33090,
+      "start_time": "00:31.69",
+      "end_time": "00:33.09",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 33090,
+      "end_ms": 36850,
+      "start_time": "00:33.09",
+      "end_time": "00:36.85",
+      "text": "Que te quedes a mi lado y que más nunca te me vayas, mi vida"
+    },
+    {
+      "start_ms": 36850,
+      "end_ms": 37950,
+      "start_time": "00:36.85",
+      "end_time": "00:37.95",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 37950,
+      "end_ms": 41610,
+      "start_time": "00:37.95",
+      "end_time": "00:41.61",
+      "text": "Que mi alma no descanse cuando de amarte se trate, mi cielo"
+    },
+    {
+      "start_ms": 41610,
+      "end_ms": 42930,
+      "start_time": "00:41.61",
+      "end_time": "00:42.93",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 42930,
+      "end_ms": 48860,
+      "start_time": "00:42.93",
+      "end_time": "00:48.86",
+      "text": "Por los días que me quedan y las noches que aún no llegan, yo"
+    },
+    {
+      "start_ms": 48860,
+      "end_ms": 50250,
+      "start_time": "00:48.86",
+      "end_time": "00:50.25",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 50250,
+      "end_ms": 53750,
+      "start_time": "00:50.25",
+      "end_time": "00:53.75",
+      "text": "Por los hijos de mis hijos y los hijos de tus hijos"
+    },
+    {
+      "start_ms": 53750,
+      "end_ms": 55200,
+      "start_time": "00:53.75",
+      "end_time": "00:55.20",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 55200,
+      "end_ms": 59160,
+      "start_time": "00:55.20",
+      "end_time": "00:59.16",
+      "text": "Que mi pueblo no derrame tanta sangre y se levante mi gente"
+    },
+    {
+      "start_ms": 59160,
+      "end_ms": 60200,
+      "start_time": "00:59.16",
+      "end_time": "01:00.20",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 60200,
+      "end_ms": 64090,
+      "start_time": "01:00.20",
+      "end_time": "01:04.09",
+      "text": "Que mi alma no descanse cuando de amarte se trate, mi cielo"
+    },
+    {
+      "start_ms": 64090,
+      "end_ms": 64940,
+      "start_time": "01:04.09",
+      "end_time": "01:04.94",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 64940,
+      "end_ms": 65160,
+      "start_time": "01:04.94",
+      "end_time": "01:05.16",
+      "text": ""
+    },
+    {
+      "start_ms": 65160,
+      "end_ms": 67290,
+      "start_time": "01:05.16",
+      "end_time": "01:07.29",
+      "text": "Un segundo más de vida para darte"
+    },
+    {
+      "start_ms": 67290,
+      "end_ms": 69870,
+      "start_time": "01:07.29",
+      "end_time": "01:09.87",
+      "text": "Y mi corazón entero entregarte"
+    },
+    {
+      "start_ms": 69870,
+      "end_ms": 72320,
+      "start_time": "01:09.87",
+      "end_time": "01:12.32",
+      "text": "Un segundo más de vida para darte"
+    },
+    {
+      "start_ms": 72320,
+      "end_ms": 75220,
+      "start_time": "01:12.32",
+      "end_time": "01:15.22",
+      "text": "Y a tu lado para siempre yo quedarme"
+    },
+    {
+      "start_ms": 75220,
+      "end_ms": 78220,
+      "start_time": "01:15.22",
+      "end_time": "01:18.22",
+      "text": "Un segundo más de vida, yo"
+    },
+    {
+      "start_ms": 78220,
+      "end_ms": 78770,
+      "start_time": "01:18.22",
+      "end_time": "01:18.77",
+      "text": ""
+    },
+    {
+      "start_ms": 78770,
+      "end_ms": 80160,
+      "start_time": "01:18.77",
+      "end_time": "01:20.16",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 80160,
+      "end_ms": 82140,
+      "start_time": "01:20.16",
+      "end_time": "01:22.14",
+      "text": "Que si me muero sea de amor"
+    },
+    {
+      "start_ms": 82140,
+      "end_ms": 84860,
+      "start_time": "01:22.14",
+      "end_time": "01:24.86",
+      "text": "Y si me enamoro sea de vos"
+    },
+    {
+      "start_ms": 84860,
+      "end_ms": 87410,
+      "start_time": "01:24.86",
+      "end_time": "01:27.41",
+      "text": "Y que de tu voz sea este corazón"
+    },
+    {
+      "start_ms": 87410,
+      "end_ms": 89860,
+      "start_time": "01:27.41",
+      "end_time": "01:29.86",
+      "text": "Todos los días, a Dios le pido"
+    },
+    {
+      "start_ms": 89860,
+      "end_ms": 92180,
+      "start_time": "01:29.86",
+      "end_time": "01:32.18",
+      "text": "Que si me muero sea de amor"
+    },
+    {
+      "start_ms": 92180,
+      "end_ms": 94860,
+      "start_time": "01:32.18",
+      "end_time": "01:34.86",
+      "text": "Y si me enamoro sea de vos"
+    },
+    {
+      "start_ms": 94860,
+      "end_ms": 97450,
+      "start_time": "01:34.86",
+      "end_time": "01:37.45",
+      "text": "Y que de tu voz sea este corazón"
+    },
+    {
+      "start_ms": 97450,
+      "end_ms": 101120,
+      "start_time": "01:37.45",
+      "end_time": "01:41.12",
+      "text": "Todos los días, a Dios le pido"
+    },
+    {
+      "start_ms": 101120,
+      "end_ms": 103730,
+      "start_time": "01:41.12",
+      "end_time": "01:43.73",
+      "text": ""
+    },
+    {
+      "start_ms": 103730,
+      "end_ms": 110730,
+      "start_time": "01:43.73",
+      "end_time": "01:50.73",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 115260,
+      "end_ms": 119640,
+      "start_time": "01:55.26",
+      "end_time": "01:59.64",
+      "text": ""
+    },
+    {
+      "start_ms": 119640,
+      "end_ms": 125600,
+      "start_time": "01:59.64",
+      "end_time": "02:05.60",
+      "text": "Que mis ojos se despierten con la luz de tu mirada, yo"
+    },
+    {
+      "start_ms": 125600,
+      "end_ms": 127080,
+      "start_time": "02:05.60",
+      "end_time": "02:07.08",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 127080,
+      "end_ms": 130650,
+      "start_time": "02:07.08",
+      "end_time": "02:10.65",
+      "text": "Que mi madre no se muera y que mi padre me recuerde"
+    },
+    {
+      "start_ms": 130650,
+      "end_ms": 132000,
+      "start_time": "02:10.65",
+      "end_time": "02:12.00",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 132000,
+      "end_ms": 135830,
+      "start_time": "02:12.00",
+      "end_time": "02:15.83",
+      "text": "Que te quedes a mi lado y que más nunca te me vayas, mi vida"
+    },
+    {
+      "start_ms": 135830,
+      "end_ms": 137080,
+      "start_time": "02:15.83",
+      "end_time": "02:17.08",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 137080,
+      "end_ms": 140710,
+      "start_time": "02:17.08",
+      "end_time": "02:20.71",
+      "text": "Que mi alma no descanse cuando de amarte se trate, mi cielo"
+    },
+    {
+      "start_ms": 140710,
+      "end_ms": 141890,
+      "start_time": "02:20.71",
+      "end_time": "02:21.89",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 141890,
+      "end_ms": 141960,
+      "start_time": "02:21.89",
+      "end_time": "02:21.96",
+      "text": ""
+    },
+    {
+      "start_ms": 141960,
+      "end_ms": 144050,
+      "start_time": "02:21.96",
+      "end_time": "02:24.05",
+      "text": "Un segundo más de vida para darte"
+    },
+    {
+      "start_ms": 144050,
+      "end_ms": 146660,
+      "start_time": "02:24.05",
+      "end_time": "02:26.66",
+      "text": "Y mi corazón entero entregarte"
+    },
+    {
+      "start_ms": 146660,
+      "end_ms": 149120,
+      "start_time": "02:26.66",
+      "end_time": "02:29.12",
+      "text": "Un segundo más de vida para darte"
+    },
+    {
+      "start_ms": 149120,
+      "end_ms": 151960,
+      "start_time": "02:29.12",
+      "end_time": "02:31.96",
+      "text": "Y a tu lado para siempre yo quedarme"
+    },
+    {
+      "start_ms": 151960,
+      "end_ms": 154940,
+      "start_time": "02:31.96",
+      "end_time": "02:34.94",
+      "text": "Un segundo más de vida, yo"
+    },
+    {
+      "start_ms": 154940,
+      "end_ms": 155330,
+      "start_time": "02:34.94",
+      "end_time": "02:35.33",
+      "text": ""
+    },
+    {
+      "start_ms": 155330,
+      "end_ms": 156820,
+      "start_time": "02:35.33",
+      "end_time": "02:36.82",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 156820,
+      "end_ms": 158940,
+      "start_time": "02:36.82",
+      "end_time": "02:38.94",
+      "text": "Que si me muero sea de amor"
+    },
+    {
+      "start_ms": 158940,
+      "end_ms": 161500,
+      "start_time": "02:38.94",
+      "end_time": "02:41.50",
+      "text": "Y si me enamoro sea de vos"
+    },
+    {
+      "start_ms": 161500,
+      "end_ms": 164200,
+      "start_time": "02:41.50",
+      "end_time": "02:44.20",
+      "text": "Y que de tu voz sea este corazón"
+    },
+    {
+      "start_ms": 164200,
+      "end_ms": 166510,
+      "start_time": "02:44.20",
+      "end_time": "02:46.51",
+      "text": "Todos los días, a Dios le pido"
+    },
+    {
+      "start_ms": 166510,
+      "end_ms": 169020,
+      "start_time": "02:46.51",
+      "end_time": "02:49.02",
+      "text": "Que si me muero sea de amor"
+    },
+    {
+      "start_ms": 169020,
+      "end_ms": 171430,
+      "start_time": "02:49.02",
+      "end_time": "02:51.43",
+      "text": "Y si me enamoro sea de vos"
+    },
+    {
+      "start_ms": 171430,
+      "end_ms": 174090,
+      "start_time": "02:51.43",
+      "end_time": "02:54.09",
+      "text": "Y que de tu voz sea este corazón"
+    },
+    {
+      "start_ms": 174090,
+      "end_ms": 176780,
+      "start_time": "02:54.09",
+      "end_time": "02:56.78",
+      "text": "Todos los días, a Dios le pido"
+    },
+    {
+      "start_ms": 176780,
+      "end_ms": 178870,
+      "start_time": "02:56.78",
+      "end_time": "02:58.87",
+      "text": "Que si me muero sea de amor"
+    },
+    {
+      "start_ms": 178870,
+      "end_ms": 181250,
+      "start_time": "02:58.87",
+      "end_time": "03:01.25",
+      "text": "Y si me enamoro sea de vos"
+    },
+    {
+      "start_ms": 181250,
+      "end_ms": 183900,
+      "start_time": "03:01.25",
+      "end_time": "03:03.90",
+      "text": "Y que de tu voz sea este corazón"
+    },
+    {
+      "start_ms": 183900,
+      "end_ms": 186530,
+      "start_time": "03:03.90",
+      "end_time": "03:06.53",
+      "text": "Todos los días, a Dios le pido"
+    },
+    {
+      "start_ms": 186530,
+      "end_ms": 188740,
+      "start_time": "03:06.53",
+      "end_time": "03:08.74",
+      "text": "Que si me muero sea de amor"
+    },
+    {
+      "start_ms": 188740,
+      "end_ms": 191160,
+      "start_time": "03:08.74",
+      "end_time": "03:11.16",
+      "text": "Y si me enamoro sea de vos"
+    },
+    {
+      "start_ms": 191160,
+      "end_ms": 193890,
+      "start_time": "03:11.16",
+      "end_time": "03:13.89",
+      "text": "Y que de tu voz sea este corazón"
+    },
+    {
+      "start_ms": 193890,
+      "end_ms": 197680,
+      "start_time": "03:13.89",
+      "end_time": "03:17.68",
+      "text": "Todos los días, yo..."
+    },
+    {
+      "start_ms": 197680,
+      "end_ms": 199810,
+      "start_time": "03:17.68",
+      "end_time": "03:19.81",
+      "text": "A Dios le pido"
+    },
+    {
+      "start_ms": 199810,
+      "end_ms": 205000,
+      "start_time": "03:19.81",
+      "end_time": "03:25.00",
+      "text": ""
+    }
+  ]
+}

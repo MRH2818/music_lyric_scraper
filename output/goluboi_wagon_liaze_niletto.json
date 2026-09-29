@@ -1,0 +1,322 @@
+{
+  "title": "Goluboi Wagon (Голубой вагон)",
+  "artist": "Liaze, Jaschka, NILETTO",
+  "album": "Goluboi Wagon",
+  "duration": 192.0,
+  "provider": "lrclib",
+  "source_id": "26355281",
+  "detected_language": "ru",
+  "language_confidence": 0.95,
+  "is_instrumental": false,
+  "lines_count": 44,
+  "lines": [
+    {
+      "start_ms": 10080,
+      "end_ms": 12850,
+      "start_time": "00:10.08",
+      "end_time": "00:12.85",
+      "text": "Илюша, я с тобой поеду"
+    },
+    {
+      "start_ms": 12850,
+      "end_ms": 19850,
+      "start_time": "00:12.85",
+      "end_time": "00:19.85",
+      "text": "Спасибо, Jaschka, NILETTO тоже с нами"
+    },
+    {
+      "start_ms": 22330,
+      "end_ms": 25970,
+      "start_time": "00:22.33",
+      "end_time": "00:25.97",
+      "text": "Ja, ich mach mich auf den Weg mit 'nem Ziel, doch ohne Plan"
+    },
+    {
+      "start_ms": 25970,
+      "end_ms": 29370,
+      "start_time": "00:25.97",
+      "end_time": "00:29.37",
+      "text": "Hör von Weitem: \"Ну давай, ай-яй-яй\""
+    },
+    {
+      "start_ms": 29370,
+      "end_ms": 32950,
+      "start_time": "00:29.37",
+      "end_time": "00:32.95",
+      "text": "Guck, wie schnell die Zeit vergeht, auf 'nen guten Neuanfang"
+    },
+    {
+      "start_ms": 32950,
+      "end_ms": 36060,
+      "start_time": "00:32.95",
+      "end_time": "00:36.06",
+      "text": "Denn das Jahr ist fast vorbei"
+    },
+    {
+      "start_ms": 36060,
+      "end_ms": 39460,
+      "start_time": "00:36.06",
+      "end_time": "00:39.46",
+      "text": "Медленно минуты уплывают вдаль"
+    },
+    {
+      "start_ms": 39460,
+      "end_ms": 43050,
+      "start_time": "00:39.46",
+      "end_time": "00:43.05",
+      "text": "Встречи с ними ты уже не жди"
+    },
+    {
+      "start_ms": 43050,
+      "end_ms": 46670,
+      "start_time": "00:43.05",
+      "end_time": "00:46.67",
+      "text": "И хотя нам прошлого немного жаль"
+    },
+    {
+      "start_ms": 46670,
+      "end_ms": 49920,
+      "start_time": "00:46.67",
+      "end_time": "00:49.92",
+      "text": "Лучшее, конечно, впереди"
+    },
+    {
+      "start_ms": 49920,
+      "end_ms": 53690,
+      "start_time": "00:49.92",
+      "end_time": "00:53.69",
+      "text": "Скатертью-скатертью дальний путь стелется"
+    },
+    {
+      "start_ms": 53690,
+      "end_ms": 57130,
+      "start_time": "00:53.69",
+      "end_time": "00:57.13",
+      "text": "И упирается прямо в небосклон"
+    },
+    {
+      "start_ms": 57130,
+      "end_ms": 60750,
+      "start_time": "00:57.13",
+      "end_time": "01:00.75",
+      "text": "Каждому-каждому в лучшее верится"
+    },
+    {
+      "start_ms": 60750,
+      "end_ms": 67750,
+      "start_time": "01:00.75",
+      "end_time": "01:07.75",
+      "text": "Катится-катится голубой вагон"
+    },
+    {
+      "start_ms": 67750,
+      "end_ms": 74750,
+      "start_time": "01:07.75",
+      "end_time": "01:14.75",
+      "text": "Катится-катится голубой вагон"
+    },
+    {
+      "start_ms": 74880,
+      "end_ms": 81880,
+      "start_time": "01:14.88",
+      "end_time": "01:21.88",
+      "text": "Катится-катится голубой вагон"
+    },
+    {
+      "start_ms": 82330,
+      "end_ms": 85830,
+      "start_time": "01:22.33",
+      "end_time": "01:25.83",
+      "text": "Und wir sitzen nach der Schicht mit denselben Jungs am Tisch"
+    },
+    {
+      "start_ms": 85830,
+      "end_ms": 89240,
+      "start_time": "01:25.83",
+      "end_time": "01:29.24",
+      "text": "Nacht wird gut, weil heute sieht man sich mal wieder"
+    },
+    {
+      "start_ms": 89240,
+      "end_ms": 92900,
+      "start_time": "01:29.24",
+      "end_time": "01:32.90",
+      "text": "Auch wenn ich damals noch vermiss, alles gut so, wie es ist"
+    },
+    {
+      "start_ms": 92900,
+      "end_ms": 96080,
+      "start_time": "01:32.90",
+      "end_time": "01:36.08",
+      "text": "In mei'm Kopf sind noch so viele alte Lieder"
+    },
+    {
+      "start_ms": 96080,
+      "end_ms": 99670,
+      "start_time": "01:36.08",
+      "end_time": "01:39.67",
+      "text": "Может, мы обидели кого-то зря"
+    },
+    {
+      "start_ms": 99670,
+      "end_ms": 102920,
+      "start_time": "01:39.67",
+      "end_time": "01:42.92",
+      "text": "Календарь закроет старый лист"
+    },
+    {
+      "start_ms": 102920,
+      "end_ms": 106640,
+      "start_time": "01:42.92",
+      "end_time": "01:46.64",
+      "text": "К новым приключениям спешим, друзья"
+    },
+    {
+      "start_ms": 106640,
+      "end_ms": 110020,
+      "start_time": "01:46.64",
+      "end_time": "01:50.02",
+      "text": "Эй, прибавь-ка ходу, машинист"
+    },
+    {
+      "start_ms": 110020,
+      "end_ms": 113610,
+      "start_time": "01:50.02",
+      "end_time": "01:53.61",
+      "text": "Скатертью-скатертью дальний путь стелется"
+    },
+    {
+      "start_ms": 113610,
+      "end_ms": 117290,
+      "start_time": "01:53.61",
+      "end_time": "01:57.29",
+      "text": "И упирается прямо в небосклон"
+    },
+    {
+      "start_ms": 117290,
+      "end_ms": 120610,
+      "start_time": "01:57.29",
+      "end_time": "02:00.61",
+      "text": "Каждому-каждому в лучшее верится"
+    },
+    {
+      "start_ms": 120610,
+      "end_ms": 124630,
+      "start_time": "02:00.61",
+      "end_time": "02:04.63",
+      "text": "Катится-катится голубой вагон"
+    },
+    {
+      "start_ms": 124630,
+      "end_ms": 128180,
+      "start_time": "02:04.63",
+      "end_time": "02:08.18",
+      "text": "Это international phonk automotivo (ту-ту)"
+    },
+    {
+      "start_ms": 128180,
+      "end_ms": 131750,
+      "start_time": "02:08.18",
+      "end_time": "02:11.75",
+      "text": "Слышится родной мотив локомотива (тук-тук)"
+    },
+    {
+      "start_ms": 131750,
+      "end_ms": 134720,
+      "start_time": "02:11.75",
+      "end_time": "02:14.72",
+      "text": "Проводили семьёй бабушку давно"
+    },
+    {
+      "start_ms": 134720,
+      "end_ms": 138330,
+      "start_time": "02:14.72",
+      "end_time": "02:18.33",
+      "text": "Времена пройдут, и мы с ней встретимся в депо"
+    },
+    {
+      "start_ms": 138330,
+      "end_ms": 141890,
+      "start_time": "02:18.33",
+      "end_time": "02:21.89",
+      "text": "Голубой вагон бежит, качается"
+    },
+    {
+      "start_ms": 141890,
+      "end_ms": 145390,
+      "start_time": "02:21.89",
+      "end_time": "02:25.39",
+      "text": "Скорый поезд набирает ход (ммм)"
+    },
+    {
+      "start_ms": 145390,
+      "end_ms": 148810,
+      "start_time": "02:25.39",
+      "end_time": "02:28.81",
+      "text": "Ну зачем же этот день кончается?"
+    },
+    {
+      "start_ms": 148810,
+      "end_ms": 155810,
+      "start_time": "02:28.81",
+      "end_time": "02:35.81",
+      "text": "Пусть бы он тянулся целый год"
+    },
+    {
+      "start_ms": 156030,
+      "end_ms": 159360,
+      "start_time": "02:36.03",
+      "end_time": "02:39.36",
+      "text": "Катится, катится голубой вагон"
+    },
+    {
+      "start_ms": 159360,
+      "end_ms": 163160,
+      "start_time": "02:39.36",
+      "end_time": "02:43.16",
+      "text": "Скатертью-скатертью дальний путь стелется"
+    },
+    {
+      "start_ms": 163160,
+      "end_ms": 166690,
+      "start_time": "02:43.16",
+      "end_time": "02:46.69",
+      "text": "И упирается прямо в небосклон"
+    },
+    {
+      "start_ms": 166690,
+      "end_ms": 170120,
+      "start_time": "02:46.69",
+      "end_time": "02:50.12",
+      "text": "Каждому-каждому в лучшее верится"
+    },
+    {
+      "start_ms": 170120,
+      "end_ms": 177120,
+      "start_time": "02:50.12",
+      "end_time": "02:57.12",
+      "text": "Катится-катится голубой вагон"
+    },
+    {
+      "start_ms": 177180,
+      "end_ms": 184180,
+      "start_time": "02:57.18",
+      "end_time": "03:04.18",
+      "text": "Катится-катится голубой вагон"
+    },
+    {
+      "start_ms": 184280,
+      "end_ms": 187260,
+      "start_time": "03:04.28",
+      "end_time": "03:07.26",
+      "text": "Катится-катится голубой вагон"
+    },
+    {
+      "start_ms": 187260,
+      "end_ms": 192000,
+      "start_time": "03:07.26",
+      "end_time": "03:12.00",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "title": "Homura (Remix)",
+  "artist": "LiSA、Dabin",
+  "album": "",
+  "duration": 251.0,
+  "provider": "kugou",
+  "source_id": "d9d4df7629ff6b13c1a53527ec5edab4",
+  "detected_language": "ja",
+  "language_confidence": 0.95,
+  "is_instrumental": false,
+  "lines_count": 38,
+  "lines": [
+    {
+      "start_ms": 460,
+      "end_ms": 3590,
+      "start_time": "00:00.46",
+      "end_time": "00:03.59",
+      "text": "贝加尔湖 - 炎《鬼灭之刃：无限列车篇》主题曲 (Remix)"
+    },
+    {
+      "start_ms": 3590,
+      "end_ms": 4560,
+      "start_time": "00:03.59",
+      "end_time": "00:04.56",
+      "text": "作词：梶浦由記、LiSA"
+    },
+    {
+      "start_ms": 4560,
+      "end_ms": 11560,
+      "start_time": "00:04.56",
+      "end_time": "00:11.56",
+      "text": "作曲：梶浦由記"
+    },
+    {
+      "start_ms": 12490,
+      "end_ms": 14130,
+      "start_time": "00:12.49",
+      "end_time": "00:14.13",
+      "text": "僕たちは"
+    },
+    {
+      "start_ms": 14130,
+      "end_ms": 19210,
+      "start_time": "00:14.13",
+      "end_time": "00:19.21",
+      "text": "燃え盛る旅の途中で出会い"
+    },
+    {
+      "start_ms": 19210,
+      "end_ms": 22040,
+      "start_time": "00:19.21",
+      "end_time": "00:22.04",
+      "text": "手を取りそして離した"
+    },
+    {
+      "start_ms": 22040,
+      "end_ms": 25140,
+      "start_time": "00:22.04",
+      "end_time": "00:25.14",
+      "text": "未来のために"
+    },
+    {
+      "start_ms": 25140,
+      "end_ms": 28790,
+      "start_time": "00:25.14",
+      "end_time": "00:28.79",
+      "text": "夢が一つ叶うたび"
+    },
+    {
+      "start_ms": 28790,
+      "end_ms": 32720,
+      "start_time": "00:28.79",
+      "end_time": "00:32.72",
+      "text": "僕は君を想うだろう"
+    },
+    {
+      "start_ms": 32720,
+      "end_ms": 38320,
+      "start_time": "00:32.72",
+      "end_time": "00:38.32",
+      "text": "強くなりたいと願い 泣いた"
+    },
+    {
+      "start_ms": 38320,
+      "end_ms": 45320,
+      "start_time": "00:38.32",
+      "end_time": "00:45.32",
+      "text": "決意を餞に"
+    },
+    {
+      "start_ms": 82330,
+      "end_ms": 88650,
+      "start_time": "01:22.33",
+      "end_time": "01:28.65",
+      "text": "さよなら ありがとう 声の限り"
+    },
+    {
+      "start_ms": 88650,
+      "end_ms": 94910,
+      "start_time": "01:28.65",
+      "end_time": "01:34.91",
+      "text": "悲しみよりもっと大事なこと"
+    },
+    {
+      "start_ms": 94910,
+      "end_ms": 101230,
+      "start_time": "01:34.91",
+      "end_time": "01:41.23",
+      "text": "去りゆく背中に伝えたくて"
+    },
+    {
+      "start_ms": 101230,
+      "end_ms": 104370,
+      "start_time": "01:41.23",
+      "end_time": "01:44.37",
+      "text": "ぬくもりと痛みに"
+    },
+    {
+      "start_ms": 104370,
+      "end_ms": 106430,
+      "start_time": "01:44.37",
+      "end_time": "01:46.43",
+      "text": "間に合うように"
+    },
+    {
+      "start_ms": 106430,
+      "end_ms": 112290,
+      "start_time": "01:46.43",
+      "end_time": "01:52.29",
+      "text": "このまま続くと思っていた"
+    },
+    {
+      "start_ms": 112290,
+      "end_ms": 119290,
+      "start_time": "01:52.29",
+      "end_time": "01:59.29",
+      "text": "僕らの明日を描いていた"
+    },
+    {
+      "start_ms": 120080,
+      "end_ms": 126500,
+      "start_time": "02:00.08",
+      "end_time": "02:06.50",
+      "text": "呼び合っていた光がまだ"
+    },
+    {
+      "start_ms": 126500,
+      "end_ms": 132410,
+      "start_time": "02:06.50",
+      "end_time": "02:12.41",
+      "text": "胸の奥に熱いのに"
+    },
+    {
+      "start_ms": 132410,
+      "end_ms": 133980,
+      "start_time": "02:12.41",
+      "end_time": "02:13.98",
+      "text": "僕たちは"
+    },
+    {
+      "start_ms": 133980,
+      "end_ms": 139030,
+      "start_time": "02:13.98",
+      "end_time": "02:19.03",
+      "text": "燃え盛る旅の途中で出会い"
+    },
+    {
+      "start_ms": 139030,
+      "end_ms": 141910,
+      "start_time": "02:19.03",
+      "end_time": "02:21.91",
+      "text": "手を取りそして離した"
+    },
+    {
+      "start_ms": 141910,
+      "end_ms": 144990,
+      "start_time": "02:21.91",
+      "end_time": "02:24.99",
+      "text": "未来のために"
+    },
+    {
+      "start_ms": 144990,
+      "end_ms": 148620,
+      "start_time": "02:24.99",
+      "end_time": "02:28.62",
+      "text": "夢が一つ叶うたび"
+    },
+    {
+      "start_ms": 148620,
+      "end_ms": 152570,
+      "start_time": "02:28.62",
+      "end_time": "02:32.57",
+      "text": "僕は君を想うだろう"
+    },
+    {
+      "start_ms": 152570,
+      "end_ms": 158200,
+      "start_time": "02:32.57",
+      "end_time": "02:38.20",
+      "text": "強くなりたいと願い 泣いた"
+    },
+    {
+      "start_ms": 158200,
+      "end_ms": 165200,
+      "start_time": "02:38.20",
+      "end_time": "02:45.20",
+      "text": "決意を餞に"
+    },
+    {
+      "start_ms": 189460,
+      "end_ms": 192350,
+      "start_time": "03:09.46",
+      "end_time": "03:12.35",
+      "text": "手を伸ばし抱き止めた"
+    },
+    {
+      "start_ms": 192350,
+      "end_ms": 195990,
+      "start_time": "03:12.35",
+      "end_time": "03:15.99",
+      "text": "激しい光の束"
+    },
+    {
+      "start_ms": 195990,
+      "end_ms": 198730,
+      "start_time": "03:15.99",
+      "end_time": "03:18.73",
+      "text": "輝いて消えてった"
+    },
+    {
+      "start_ms": 198730,
+      "end_ms": 201910,
+      "start_time": "03:18.73",
+      "end_time": "03:21.91",
+      "text": "未来のために"
+    },
+    {
+      "start_ms": 201910,
+      "end_ms": 205460,
+      "start_time": "03:21.91",
+      "end_time": "03:25.46",
+      "text": "託された幸せと"
+    },
+    {
+      "start_ms": 205460,
+      "end_ms": 209350,
+      "start_time": "03:25.46",
+      "end_time": "03:29.35",
+      "text": "約束を超えて行く"
+    },
+    {
+      "start_ms": 209350,
+      "end_ms": 215720,
+      "start_time": "03:29.35",
+      "end_time": "03:35.72",
+      "text": "振り返らずに進むから"
+    },
+    {
+      "start_ms": 215720,
+      "end_ms": 222040,
+      "start_time": "03:35.72",
+      "end_time": "03:42.04",
+      "text": "前だけ向いて叫ぶから"
+    },
+    {
+      "start_ms": 222040,
+      "end_ms": 227140,
+      "start_time": "03:42.04",
+      "end_time": "03:47.14",
+      "text": "心に炎を灯して"
+    },
+    {
+      "start_ms": 227140,
+      "end_ms": 233140,
+      "start_time": "03:47.14",
+      "end_time": "03:53.14",
+      "text": "遠い未来まで"
+    }
+  ]
+}
