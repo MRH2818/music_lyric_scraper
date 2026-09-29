@@ -349,7 +349,3 @@ python3 -m pytest
 ```
 
 ---
-
-## License
-
-MIT License. Designed and maintained for open-source audio and language learning workflows.
